@@ -1,0 +1,1451 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Division in algebra</title>
+  <metadata>
+  <md:content-id>m31108</md:content-id><md:title>Division in algebra</md:title>
+  <md:abstract/>
+  <md:uuid>5aa4e542-8a46-4290-a5ee-4560aae0e4d2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169109792056">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169109792056">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169120768557">
+      <title>Grade 8 </title>
+      <para id="para-id1169120768557">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169120785940">
+      <title>THE NUMBER SYSTEM</title>
+      <para id="para-id1169120785940">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169115534633">
+      <title>(Natural and whole numbers)</title>
+      <para id="para-id1169115534633">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1876514">
+      <title>Module 6</title>
+      <para id="para-id1876514">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3085183">
+      <title>DIVISION IN ALGEBRA</title>
+      <para id="id4136464">CLASS ASSIGNMENT<emphasis effect="italics"> 1</emphasis></para>
+      <list id="id1169112814201" list-type="bulleted">
+        <item>Discover more and more about division in ALGEBRA!</item>
+      </list>
+      <list id="id1169115706364" list-type="bulleted">
+        <item>Write the following fraction in its simplest form in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>45</m:mtext><m:mtext>36</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"45"}  over  {"36"} } } {}</m:annotation></m:semantics></m:math> = ........................</item>
+        <item>Like common fractions, you can also write algebraic fractions in the simplest form.</item>
+      </list>
+      <para id="id8914574">What would the following be in its simplest form? 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>b</m:mi></m:mrow><m:mrow><m:mn>3</m:mn><m:mstyle fontweight="bold"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b}  over  {3 bold "ab"} } } {}</m:annotation></m:semantics></m:math> = .........................</para>
+      <para id="id2134612">Yes, it is actually like this: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">×</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">×</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">×</m:mo><m:mi>b</m:mi></m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6 times a times a times b}  over  {3 times `a` times `b} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 times a times 1 times 1}  over  {1 times `1` times `1} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1892716">(Now you may cancel all the like terms above and below)(What remains above and below? Just write down the answer)</para>
+      <list id="id7058602" list-type="bulleted">
+        <item>There is a shortcut for terms with exponents: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {m rSup { size 8{5} } }  over  {m rSup { size 8{7} } } } `={}} {}</m:annotation></m:semantics></m:math> .........................</item>
+      </list>
+      <para id="id1169120702573">Are you able to identify the shortcut? Yes, 7 - 5 = 2. Therefore <emphasis effect="italics">m</emphasis>² what remains below the line.</para>
+      <para id="id1169112903938"><emphasis effect="italics">Answer</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {m rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id3649372">1. Now simplify the following:</para>
+      <para id="id1169117963139">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>18</m:mtext><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mn>9m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"m rSup { size 8{5} } }  over  {9m rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+      <para id="id1169111291896">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mn>3p</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"p rSup { size 8{4} } y rSup { size 8{7} } }  over  {3p rSup { size 8{7} } y rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+      <para id="id1169112529669">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mn>4m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mn>2m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( 4m rSup { size 8{2} }  \)  rSup { size 8{2} } }  over  {2m rSup { size 8{6} } } } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+      <para id="id1169117547066">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mn>2m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4 \( 2m rSup { size 8{2} }  \)  rSup { size 8{5} } }  over  {2 \( m rSup { size 8{2} }  \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+      <para id="id1169115763841">1.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8a rSup { size 8{2} }  \( a rSup { size 8{2} }  \)  rSup { size 8{2} } }  over  {8a rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+      <para id="id2705966">1.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>25</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mtext>15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"a rSup { size 8{2} } b rSup { size 8{3} } c rSup { size 8{4} }  "." 4 bold "ab" rSup { size 8{3} } c rSup { size 8{2} } }  over  {"15"a rSup { size 8{3} } b rSup { size 8{4} } c rSup { size 8{5} } } } } {}</m:annotation></m:semantics></m:math> ...........................................</para>
+      <para id="id6943657">2.<emphasis effect="bold"/>Remember: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>b</m:mi><m:mo stretchy="false">(</m:mo><m:mn>9a</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } b \( 9a \) } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mi>b</m:mi></m:mrow><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mn>9a</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1 times b}  over  {3} }  times  {  {9a}  over  {1} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">×</m:mo><m:mn>9a</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mstyle fontweight="bold"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b times 9a}  over  {3} } `=` {  {9 bold "ab"}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 3<emphasis effect="italics">ab</emphasis></para>
+      <para id="id1169116502994">Therefore: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> means: <emphasis effect="bold">x 1 ÷ 3</emphasis></para>
+      <para id="id1169114044799">Now try to simplify the following: <sup>1</sup>/<sub>3</sub> ( 4<emphasis effect="italics">a</emphasis> - 6<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1169115516064"/>
+      <para id="id708360"/>
+      <para id="id1169113708954">2.1 Write each of the following in simplified form.</para>
+      <para id="id1891638">2.1.1:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math> x <emphasis effect="italics">a</emphasis>  ..................................................</para>
+      <para id="id936804">2.1.2:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math>(2<emphasis effect="italics">a</emphasis>² - 15) ..................................................</para>
+      <para id="id1169106973916">2.1.3:  (2<emphasis effect="italics">a</emphasis> - 8<emphasis effect="italics">b</emphasis> + 12<emphasis effect="italics">c</emphasis>) ÷ 2 ..................................................</para>
+      <para id="id1169106995694">2.1.4:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>6a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>  -  15</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mtext/><m:mo stretchy="false">+</m:mo><m:mtext>  27</m:mtext></m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6a rSup { size 8{2} } b rSup { size 8{2} } c rSup { size 8{3} } "  -  15"a rSup { size 8{4} } b rSup { size 8{6} } c rSup { size 8{7} } "  "+"  27"b rSup { size 8{9} } c rSup { size 8{"10"} } }  over  {3a rSup { size 8{2} } b rSup { size 8{4} } c rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169111243164"/>
+      <para id="id3553459"/>
+      <para id="id1169121631628"/>
+      <para id="id1623212"/>
+      <para id="id1169114028459"/>
+      <para id="id4223859">2.1.5:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>7m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>pq</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mtext>  -  49</m:mtext><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>  -  35</m:mtext><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>mn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7m rSup { size 8{2} }  bold "pq" rSup { size 8{9} } "  -  49"m rSup { size 8{6} } n rSup { size 8{7} } "  -  35"p rSup { size 8{6} } q rSup { size 8{"12"} } }  over  { - 7 bold "mn" rSup { size 8{3} } q rSup { size 8{4} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169114122982"/>
+      <para id="id1169111040963"/>
+      <para id="id1169121433766"/>
+      <para id="id3324295"/>
+      <para id="id1169112800566"/>
+      <para id="id1169116884193"> HOMEWORK ASSIGNMENT<emphasis effect="italics"> 1</emphasis></para>
+      <para id="id1169116723615">1. Simplify:</para>
+      <para id="id7079527">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>- 56</m:mtext><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mtext>-8</m:mtext><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>mn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"- 56"p rSup { size 8{7} } q rSup { size 8{7} } }  over  {"-8" bold "mn" rSup { size 8{3} } q rSup { size 8{4} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169110173797"/>
+      <para id="id1169115747940"/>
+      <para id="id1169115966550">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>bc</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mtext>  -  36</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mtext/><m:mo stretchy="false">+</m:mo><m:mtext>  24</m:mtext></m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mtext>-3</m:mtext><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} }  bold "bc" rSup { size 8{4} } "  -  36"a rSup { size 8{4} } b rSup { size 8{7} } "  "+"  24"a rSup { size 8{3} } b rSup { size 8{2} } }  over  {"-3" bold "ab" rSup { size 8{2} } c rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2869374"/>
+      <para id="id7016931"/>
+      <para id="id1169120678248">1.3 ½ (5<emphasis effect="italics">a</emphasis>² - 25<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id8760882"/>
+      <para id="id1169114221729">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( a rSup { size 8{2} } b rSup { size 8{2} }  \)  rSup { size 8{3} }   "."   \(  bold "ab" rSup { size 8{2} }  \)  rSup { size 8{4} } }  over  {a rSup { size 8{2} } b rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2050523"/>
+      <para id="id1169115613207">1.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>kp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mn>2k</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 \( 4 bold "kp" rSup { size 8{4} }  \)  rSup { size 8{2} } }  over  {2k rSup { size 8{3} } p rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169121630091"/>
+      <para id="id1169111085265">2. If <emphasis effect="italics">P</emphasis> = 3<emphasis effect="italics">ab</emphasis>² + 6<emphasis effect="italics">a</emphasis>² and <emphasis effect="italics">Q</emphasis> = 2<emphasis effect="italics">ab</emphasis>, calculate:</para>
+      <para id="id1169114231843">2.1 2<emphasis effect="italics">P</emphasis> - 3<emphasis effect="italics">Q</emphasis></para>
+      <para id="id1169121430616"/>
+      <para id="id8380978"/>
+      <para id="id1169115583167">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>P</m:mi><m:mi>Q</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {Q} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169115680021"/>
+      <para id="id1169116841380"/>
+      <para id="id1169109685013">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>P</m:mi><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>Q</m:mi></m:mrow><m:mn>2Q</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P`+`Q}  over  {2Q} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2173002"/>
+      <para id="id1169120729575"/>
+      <para id="id1169111287174">3. Supposing that 5<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis>² books cost (-5<emphasis effect="italics">ab</emphasis> + 15<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>7</sup>) rands, calculate the price of one book.</para>
+      <para id="id1169116454684"/>
+      <para id="id6985819"/>
+      <para id="id1169117762815">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessment </emphasis>
+      </para>
+      <table id="id4022859" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessment of myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">by myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessment by Teacher:</entry>
+            </row>
+            <row>
+              <entry>I can…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Critical Outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>express fractions in their simplest form; (Lo 2.2; 1.6.2)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Critical and creative thinking</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>express algebraic fractions in their simplest form;  (Lo 2.2; 1.6.2; 2.8.3; 2.8.4; 2.8.5; 2.8.6) </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Collaborating</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>calculate the shortest path for terms with exponents. (Lo 2.2; 1.6.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organising en managing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Processing of information</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Problem solving</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Independence</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169110229704">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id1169120410142" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Comments by the learner:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan of action:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My marks:</entry>
+            </row>
+            <row>
+              <entry>I am very satisfied with the standard of my work.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I am satisfied with the steady progress I have made.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I have worked hard, but my achievement is not satisfactory.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I did not give my best.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1169110934130" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Comments by parents:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169121635094">Tutorial 2: (Algebra)</para>
+      <para id="id1169111025919">Total: 70</para>
+      <para id="id1169114027835">Question 1</para>
+      <para id="id1169111129545"><emphasis effect="bold">A.</emphasis> Indicate whether the following statements are TRUE or FALSE and improve the wrong statements.</para>
+      <para id="id1169116405082">1. The base of 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math><sup>3</sup> is 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>.  </para>
+      <para id="id2927146">2. The number of terms in the expression are THREE:3(5<emphasis effect="italics">a</emphasis> + 2) + 5<emphasis effect="italics">b</emphasis> - 6  </para>
+      <para id="id1169114248109">3. -10 ½ &lt; -10,499  </para>
+      <para id="id1914866">4. -2² = -4  </para>
+      <para id="id1169117546022">5. The first prime number is 1.  </para>
+      <para id="id1169112599262">6. 0 ÷ 6 = 0  </para>
+      <para id="id1169115817030">7. The 5 in 5<sup>3</sup> is known as the power.  </para>
+      <para id="id1169120417058">8.  -3 &gt; -6  </para>
+      <para id="id1169111029064">9. The square of van 8 is 64.  </para>
+      <para id="id1169109636594">10. The coefficient of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> in 4
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">y</emphasis>² is 4.  </para>
+      <para id="id1169111141445">11.  7(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> - 2<emphasis effect="italics">y</emphasis>) = 7
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> - 2<emphasis effect="italics">y</emphasis></para>
+      <para id="id3568344">12.  2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² + 3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² = 5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math><sup>4</sup></para>
+      <para id="id1169115805715">13.  5 - 2 + (-2) = 1  </para>
+      <para id="id7065134">14.  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {a rSup { size 8{6} } b rSup { size 8{"12"} } } } {}</m:annotation></m:semantics></m:math>= <emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis><sup>4 </sup></para>
+      <para id="id2038398">[14]</para>
+      <para id="id1169111246951"><emphasis effect="bold">B.</emphasis> Complete the following:</para>
+      <para id="id1169120737045">1. The coefficient of <emphasis effect="italics">a</emphasis> in 3<emphasis effect="italics">ab</emphasis> is …  </para>
+      <para id="id4147136">2. The exponent 5<sup>a + b</sup> is ....  </para>
+      <para id="id1169112900564">[2]</para>
+      <para id="id1169110212521">[16]</para>
+      <para id="id2276268">Question <emphasis effect="bold"/>2</para>
+      <para id="id1169112882628">Here matches are arranged to form squares.</para>
+      <figure id="id1169114080763">
+        <media id="id1169114080763_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 109.png" id="id1169114080763__onlineimage" height="106" width="483"/>
+        </media>
+      </figure>
+      <para id="id1887665">1. Complete the following table.       [4]</para>
+      <table id="id1169120742012" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Number of squares</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>Number of matches</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8024627">2. How many matches are required to build 150 squares?    [2]</para>
+      <para id="id1169116778078"/>
+      <para id="id1169115653116">3. How many squares can be built with 1 000 matches?    [2]</para>
+      <para id="id4392166"/>
+      <para id="id1169120592671">[8]</para>
+      <para id="id1169107014285">Question <emphasis effect="bold"/>3</para>
+      <para id="id1169111156681"><emphasis effect="bold">A.</emphasis> Supposing <emphasis effect="italics">a </emphasis>= 3 ; <emphasis effect="italics">b</emphasis> = -2 and <emphasis effect="italics">c</emphasis> = 6, determine the value of:</para>
+      <para id="id1169110995484">1. 2<emphasis effect="italics">a</emphasis>(3<emphasis effect="italics">b</emphasis> + 5<emphasis effect="italics">c</emphasis>)         [3]</para>
+      <para id="id1169116092870"/>
+      <para id="id1664715"/>
+      <para id="id1169116138676">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>b</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a` - `b` - `c}  over  {b` - `c} } } {}</m:annotation></m:semantics></m:math>          [4]</para>
+      <para id="id1169115644002"/>
+      <para id="id1169117720937"/>
+      <para id="id1169116894096"><emphasis effect="bold">B.</emphasis> Addition and subtraction:</para>
+      <para id="id2144859">1. Add: 3<emphasis effect="italics">a</emphasis> + 4<emphasis effect="italics">b</emphasis> - 6<emphasis effect="italics">c</emphasis> ; -6<emphasis effect="italics">b</emphasis> + 3<emphasis effect="italics">c</emphasis> + 2<emphasis effect="italics">a</emphasis> ; 5<emphasis effect="italics">c</emphasis> - 3<emphasis effect="italics">b</emphasis> ; <emphasis effect="italics">a</emphasis> - 2<emphasis effect="italics">c</emphasis>   [3]</para>
+      <para id="id5713004"/>
+      <para id="id1169116218932"/>
+      <para id="id1169115523435">2. Subtract 8
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> + 2<emphasis effect="italics">y</emphasis> + 5 from 10
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> - 2<emphasis effect="italics">y</emphasis> + 4     [3]</para>
+      <para id="id1169121437864"/>
+      <para id="id4380398"/>
+      <para id="id1169115562249"> [13]</para>
+      <para id="id1169121644706">Question 4</para>
+      <para id="id1169112801171">Simplify each of the following:</para>
+      <para id="id1169107017138">1. 7<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis>c - 2<emphasis effect="italics">ab</emphasis>²c - 3<emphasis effect="italics">ba</emphasis>²c + <emphasis effect="italics">a</emphasis>c<emphasis effect="italics">b</emphasis>²       [2]</para>
+      <para id="id1169120803232"/>
+      <para id="id2145018"/>
+      <para id="id1073849">2. 5<emphasis effect="italics">a</emphasis>² x 3<emphasis effect="italics">a</emphasis><sup>3</sup> - 3<emphasis effect="italics">a</emphasis><sup>4</sup> x 2<emphasis effect="italics">a</emphasis>        [3]</para>
+      <para id="id1169110971042"/>
+      <para id="id1054643"/>
+      <para id="id1169111135834">3. 3(2<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>3</sup>)² . (-<emphasis effect="italics">ab</emphasis>)<sup>3</sup><sup/>        [4]</para>
+      <para id="id1169116086822"/>
+      <para id="id1680439"/>
+      <para id="id1169111042499">4. -5<emphasis effect="italics">ab</emphasis>² (3<emphasis effect="italics">a</emphasis>² - 4<emphasis effect="italics">b</emphasis>)         [2]</para>
+      <para id="id1169113961080"/>
+      <para id="id7065862"/>
+      <para id="id1169115661826">5. 2<emphasis effect="italics">a</emphasis> (7<emphasis effect="italics">a</emphasis> + 4) - 3( <emphasis effect="italics">a</emphasis> + 3<emphasis effect="italics">a</emphasis>²) - ( -4<emphasis effect="italics">a</emphasis>² - <emphasis effect="italics">a</emphasis> )     [4]</para>
+      <para id="id1169120449753"/>
+      <para id="id1169116756503"/>
+      <para id="id4308887">6. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>- 3</m:mtext><m:mstyle fontweight="bold"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mn>2a</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mstyle fontweight="bold"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( "- 3" bold "ab" \)  rSup { size 8{2} }   \( 2a \)  rSup { size 8{3} } }  over  {4 \(  bold "ab" \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>         [4]</para>
+      <para id="id1169116400721"/>
+      <para id="id1169117859654"/>
+      <para id="id2129301">7. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>14</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mn>6c</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mfrac><m:mrow><m:mtext>12</m:mtext><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:msup><m:mn>7a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14"a rSup { size 8{4} } b rSup { size 8{3} } }  over  {6c rSup { size 8{2} } } } ` times ` {  {"12"c rSup { size 8{4} } }  over  { - 7a rSup { size 8{3} } b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>         [3]</para>
+      <para id="id1169111032565"/>
+      <para id="id1169117983033"/>
+      <para id="id1169116080385">[22]</para>
+      <para id="id1169116831053">Question <emphasis effect="bold"/>5</para>
+      <para id="id1169117997224">Supposing <emphasis effect="italics">A</emphasis> = <emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis> + 5<emphasis effect="italics">ab</emphasis>² - 6<emphasis effect="italics">ab</emphasis> and <emphasis effect="italics">B</emphasis> = <emphasis effect="italics">ab</emphasis>, determine the following:</para>
+      <para id="id2216235">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi/></m:mrow><m:mi>B</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {A`}  over  {B} } } {}</m:annotation></m:semantics></m:math>           [3]</para>
+      <para id="id1169111082315"/>
+      <para id="id1169107008299"/>
+      <para id="id1169116519021"/>
+      <para id="id1169111287905">5.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3A</m:mn><m:mi/></m:mrow><m:mi>B</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3A`}  over  {B} } } {}</m:annotation></m:semantics></m:math>           [4]</para>
+      <para id="id1169115742407"/>
+      <para id="id1169110910653"/>
+      <para id="id8846714"/>
+      <para id="id1169120307686"/>
+      <para id="id1169116871369"/>
+      <para id="id1169106931918">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>B</m:mi><m:mi/></m:mrow><m:mi>B</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {A`+`B`}  over  {B} } } {}</m:annotation></m:semantics></m:math>          [4]</para>
+      <para id="id1169121446519"/>
+      <para id="id1169111031279"/>
+      <para id="id1169115660285"/>
+      <para id="id7028809">[11]</para>
+      <para id="id2293067">TOTAL: 70</para>
+      <para id="id2300743"><emphasis effect="bold"/><emphasis effect="bold"/>Algebra<emphasis effect="bold"/><emphasis effect="bold">Tutorial</emphasis></para>
+      <table id="id4199744" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">I demonstrate knowledge and understanding of:</entry>
+              <entry>Learning outcomes</entry>
+              <entry/>
+              <entry>0000</entry>
+              <entry>000</entry>
+              <entry>00</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry>different terms that can be distinguished in a polynomial;</entry>
+              <entry>2.4; 2.8.2; 2.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry>identifying the coefficient of an unknown;</entry>
+              <entry>2.4; 2.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry>identifying the constant in a polynomial;</entry>
+              <entry>2.4; 2.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4.</entry>
+              <entry>determining the degree of an expression;</entry>
+              <entry>2.4; 2.8.1; 2.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry>arranging the expression in a descending order;</entry>
+              <entry>2.4; 2.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6.</entry>
+              <entry>the correct usage of signs ( + / - ) in an expression;</entry>
+              <entry>2.4; 2.8.4 &amp; .6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7.</entry>
+              <entry>algebraic expression;</entry>
+              <entry>2.2; 2.4; 2.8.4 </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8.</entry>
+              <entry>determining the formulas of flow diagrams and tables;</entry>
+              <entry>2.1 &amp; .3; .4; .7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry>adding and subtracting of numbers;</entry>
+              <entry>2.4; 2.8.2 &amp; .4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.</entry>
+              <entry>writing expressions in exponent form;</entry>
+              <entry>1.6.3; 2.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11.</entry>
+              <entry>solving expressions that have brackets;</entry>
+              <entry>2.4; 2.8.3 &amp; .5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12.</entry>
+              <entry>the correct usage of the order of calculations;</entry>
+              <entry>2.4; 2.8.5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13.</entry>
+              <entry>substitution of unknowns with constant values;</entry>
+              <entry>2.4; 2.8.4;1.6.2 &amp; .3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14.</entry>
+              <entry>expressing fractions in their simplest form;</entry>
+              <entry>2.2; 2.4; 1.6.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15.</entry>
+              <entry>expressing algebraic fractions in their simplest form.</entry>
+              <entry>2.4; 1.6.2; 2.8.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>16.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>17.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1169107004091" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>The learner’s …</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>work is…</entry>
+              <entry>Not done.</entry>
+              <entry>Partially done.</entry>
+              <entry>Mostly complete.</entry>
+              <entry>Complete.</entry>
+            </row>
+            <row>
+              <entry>layout of the work is…</entry>
+              <entry>Not understandable.</entry>
+              <entry>Difficult to follow.</entry>
+              <entry>Sometimes easy to follow.</entry>
+              <entry>Easy to follow.</entry>
+            </row>
+            <row>
+              <entry>accuracy of calculations…</entry>
+              <entry>Are mathematically incorrect.</entry>
+              <entry>Contain major errors.</entry>
+              <entry>Contain minor errors.</entry>
+              <entry>Are correct.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1169117733638" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c6">My BEST marks:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169111119790">Parent Signature:   <emphasis effect="italics">Date</emphasis>:  </para>
+      <para id="id1169111086681">Test 2: (Algebra)</para>
+      <para id="id1169115976706">Total: 60</para>
+      <para id="id1169115761679">1. Simplify:</para>
+      <para id="id1169120431665">1.1: 17<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis>c - 21<emphasis effect="italics">ab</emphasis>²c - 3<emphasis effect="italics">ba</emphasis>²c + 4<emphasis effect="italics">a</emphasis>c<emphasis effect="italics">b</emphasis>²      [2]</para>
+      <para id="id1169116112343"/>
+      <para id="id1169109784656">1.2: 5<emphasis effect="italics">a</emphasis>² x 3<emphasis effect="italics">a</emphasis><sup>3</sup> - 3<emphasis effect="italics">a</emphasis><sup>4</sup> x 5<emphasis effect="italics">a</emphasis>        [3]</para>
+      <para id="id1169112600928"/>
+      <para id="id7055112">1.3: 7<emphasis effect="italics">ab</emphasis> - (-4<emphasis effect="italics">ab</emphasis>)         [2]</para>
+      <para id="id4372881"/>
+      <para id="id1169117704804">1.4: 3(2<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>3</sup>)<sup>3</sup> . (-<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis>²)<sup>3</sup>         [3]</para>
+      <para id="id1169116442329"/>
+      <para id="id1169110996234">1.5: -7<emphasis effect="italics">ab</emphasis>²(3<emphasis effect="italics">a</emphasis>² - 5<emphasis effect="italics">b</emphasis>)         [2]</para>
+      <para id="id1169112781463"/>
+      <para id="id1169120675110">1.6: 5<emphasis effect="italics">a</emphasis>(3<emphasis effect="italics">a</emphasis> + 5) - 2(2<emphasis effect="italics">a</emphasis> + 4<emphasis effect="italics">a</emphasis>²) - 2<emphasis effect="italics">a</emphasis>(-3<emphasis effect="italics">a</emphasis>)      [4]</para>
+      <para id="id1169117968830"/>
+      <para id="id9008721">1.7: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>-2</m:mtext><m:mstyle fontweight="bold"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">(</m:mo><m:mn>3a</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( "-2" bold "ab" \)  rSup { size 8{2} }  \( 3a \)  rSup { size 8{3} } }  over  {4 \(  bold "ab" rSup { size 8{2} }  \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>         [4]</para>
+      <para id="id1169116694889"/>
+      <para id="id2236903">[20]</para>
+      <para id="id1169116063003">2. If <emphasis effect="italics">a</emphasis> = 3 ; <emphasis effect="italics">b</emphasis> = -2 and <emphasis effect="italics">c</emphasis> = 6, determine the values for:</para>
+      <para id="id6243441">2.1 3<emphasis effect="italics">a</emphasis>(2<emphasis effect="italics">b</emphasis> + 4<emphasis effect="italics">c</emphasis>)         [3]</para>
+      <para id="id1169115779299"/>
+      <para id="id1169114460256">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mtext>  -  </m:mtext><m:mstyle fontweight="bold"><m:mrow><m:mtext>b </m:mtext></m:mrow></m:mstyle><m:mtext> -  </m:mtext><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a"  -  " bold "b "" -  "c}  over  {b`+`c} } } {}</m:annotation></m:semantics></m:math>          [4]</para>
+      <para id="id1169109516041"/>
+      <para id="id1169116441535">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3c</m:mn><m:mrow><m:mi>a</m:mi><m:mtext>.</m:mtext><m:mi>b</m:mi><m:mtext>.</m:mtext><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3c}  over  {a "." b "." c} } } {}</m:annotation></m:semantics></m:math>          [3]</para>
+      <para id="id1169106996042"/>
+      <para id="id1169111241806">2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>9a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mtext>-3</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9a rSup { size 8{5} } }  over  {"-3"a rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math>          [3]</para>
+      <para id="id4159786"/>
+      <para id="id1169116765980"> [13]</para>
+      <para id="id1970354">3. Given: 5<emphasis effect="italics">a</emphasis>² - (<emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis>)<emphasis effect="italics">a</emphasis> - 5<emphasis effect="italics">p</emphasis></para>
+      <para id="id1169107121604">3.1 How many terms are there in the above expression? .........................  [1]</para>
+      <para id="id1169120306422">3.2 Write down the coefficient of p. .........................    [1]</para>
+      <para id="id2203678">3.3 Write down the exponent of <emphasis effect="italics">p</emphasis>. .........................     [1]</para>
+      <para id="id2135976">3.4 What is the reciprocal of -5? .........................     [1]</para>
+      <para id="id4238966">[4]</para>
+      <para id="id1169112766053">4.</para>
+      <para id="id1892397">4.1 Determine by how much 7<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> + 9<emphasis effect="italics">c</emphasis> is bigger than 2<emphasis effect="italics">c</emphasis> + 3<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">c</emphasis> . [3]</para>
+      <para id="id1169115946523"/>
+      <para id="id708853">4.2 Determine by how much <emphasis effect="italics">n</emphasis> + 3<emphasis effect="italics">m</emphasis> + 3<emphasis effect="italics">k</emphasis> is smaller than -3<emphasis effect="italics">k</emphasis> - 7<emphasis effect="italics">m</emphasis> + 2<emphasis effect="italics">n</emphasis> [3]</para>
+      <para id="id1169120757451"/>
+      <para id="id3811181"/>
+      <para id="id1169118008583">4.3 Subtract 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² - 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> + 4 from 5<emphasis effect="italics">c</emphasis>² + 6
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> - 9     [3]</para>
+      <para id="id1169106999000"/>
+      <para id="id1169107018124"/>
+      <para id="id7039139">[9]</para>
+      <para id="id1169120720603">5. Write down an algebraic expression for each of the following.</para>
+      <para id="id7333541">5.1: 23 <emphasis effect="italics">m</emphasis> reduced by the square of <emphasis effect="italics">n</emphasis> ...........................    [2]</para>
+      <para id="id1169109685931">5.2 Subtract the product of <emphasis effect="italics">m</emphasis> and <emphasis effect="italics">n</emphasis> from the difference between <emphasis effect="italics">m</emphasis> and <emphasis effect="italics">n</emphasis>.  [2]</para>
+      <para id="id1169111041131"/>
+      <para id="id1169112515571">5.3 You have twenty coins. <emphasis effect="italics">y</emphasis> of them are fifty-cent coins and the rest are ten-cent coins.</para>
+      <para id="id1169112841327">5.3.1 how many ten-cent coins do you have (in terms of <emphasis effect="italics">y</emphasis>)    [1]</para>
+      <para id="id1169116778313"/>
+      <para id="id1169115717744">5.3.2 What is the total value of your money?      [2]</para>
+      <para id="id1169111280906"/>
+      <para id="id1169114042768">[7]</para>
+      <para id="id1169109792513">6. Complete the following tables and give a formula for each in the form <emphasis effect="italics">y</emphasis> = ......</para>
+      <para id="id1169116780343">6.1 <emphasis effect="italics">y</emphasis> = ..................................................      [3]</para>
+      <table id="id1169115311988" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>y</entry>
+              <entry>9</entry>
+              <entry>25</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1837192">6.2 <emphasis effect="italics">y</emphasis> = ..................................................      [4]</para>
+      <table id="id1169111346714" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>y</entry>
+              <entry>11</entry>
+              <entry/>
+              <entry>23</entry>
+              <entry/>
+              <entry>38</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169115714075">[7]</para>
+      <para id="id1169117977470">7. Bonus question <emphasis effect="bold"/></para>
+      <para id="id1169120305098">Study the following pattern:</para>
+      <para id="id1169110945672">  1 = 1 x 1</para>
+      <para id="id8033270">  1 + 3 = 2 x 2</para>
+      <para id="id2739369">  1 + 3 + 5 = 3 x 3</para>
+      <para id="id1169116670068">  1 + 3 + 5 + 7 = 4 x 4</para>
+      <para id="id1169109686937">Now determine: </para>
+      <para id="id2245270">1 + 3 + 5 + 7 + 9 + ..... + 21 + 23 + 25 + 27 + 29</para>
+      <para id="id1169114550590">2]</para>
+      <para id="id2930292">Enrichment exercise for the quick learner</para>
+      <para id="id1169115580550">1. If <emphasis effect="italics">p</emphasis>  <emphasis effect="italics">q</emphasis> means 3 <emphasis effect="italics">p</emphasis> + <emphasis effect="italics">q</emphasis><sup>2</sup>, (3  4)  5 will be equal to...</para>
+      <para id="id1169112773838">a) 60 b) 100 c) 87  d) 72  e) 91</para>
+      <para id="id1169109646991">2. In the multiplication shown, <emphasis effect="italics">S</emphasis> and <emphasis effect="italics">T</emphasis> are different digits between 1 and 9. The value of <emphasis effect="italics">S</emphasis> + <emphasis effect="italics">T</emphasis> is ...</para>
+      <para id="id3231939"><emphasis effect="italics">S</emphasis> 6</para>
+      <para id="id1169116439387">
+        <emphasis effect="underline"> x 2 </emphasis>
+        <emphasis effect="italics">T</emphasis>
+      </para>
+      <para id="id1169121475326">  2 1 5 0 </para>
+      <para id="id7384904">a) 13 b) 14  c) 15  d) 16  e) 17</para>
+      <para id="id1169121627733">3. How many digits are there in 5<sup> 8 </sup>?</para>
+      <para id="id1169107004033">a) 2 b) 5  c) 6  d) 8  e) 40</para>
+      <para id="id1169107015793">4. The average of the numbers 0,1 ; 0,11 and 0,111 is ...</para>
+      <para id="id1169116392150">a) 0,041 b)  0,107 c) 0,11 d) 0,1111 e) 0,17</para>
+      <para id="id1169114475756">5. In a certain class <sup>1</sup>/<sub>3</sub> of the pupils are girls. If 6 boys represent one quarter of the number of boys in the class, how many pupils are there in the class? </para>
+      <para id="id1169110903435">a) 18 b) 24  c) 27  d) 32  e) 36</para>
+      <para id="id1169115530241">6. If ½ - x = x - <sup>1</sup>/<sub>3</sub> , x will be equal to...</para>
+      <para id="id1169111027733">a) <sup>1</sup>/<sub>12 </sub>b) <sup>1</sup>/<sub>6</sub>  c) <sup>5</sup>/<sub>12</sub><sub/>d) <sup>5</sup>/<sub>6 </sub> e) <sup>3</sup>/<sub>12</sub></para>
+      <para id="id3661549">7. Calculate the value of x if .....</para>
+      <equation id="id1169106932382">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mroot>
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msqrt>
+                          <m:mi>x</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mroot>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {4+ sqrt {x} } =2} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id3264089">a) 4 b) 2 </para>
+    </section>
+    <section id="id1169109926513">
+      <title>Memorandum</title>
+      <section id="id1169112652719">
+        <title>CLASSWORK ASSIGNMENT 1</title>
+        <list id="id1169111277511" list-type="bulleted">
+          <item>2<emphasis effect="italics">m</emphasis><sup>3</sup></item>
+          <item>
+            <equation id="id1169120413989">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msup>
+                            <m:mn>5y</m:mn>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:msup>
+                            <m:mi>p</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ {  {5y rSup { size 8{4} } }  over  {p rSup { size 8{3} } } } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </equation>
+          </item>
+          <item>
+            <equation id="id1169116820691">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>8</m:mn>
+                          <m:msup>
+                            <m:mi>m</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {m rSup { size 8{2} } } } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </equation>
+          </item>
+          <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mtext>32</m:mtext><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:msup><m:mn>2m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4 left ("32"m rSup { size 8{"10"} }  right )}  over  {2m rSup { size 8{4} } } } } {}</m:annotation></m:semantics></m:math> = 64<emphasis effect="italics">m</emphasis><sup>6</sup></item>
+        </list>
+        <para id="id1169118055602">1.5<emphasis effect="italics"> a</emphasis><sup>4</sup></para>
+        <para id="id1169116878333"/>
+        <para id="id8968402">1.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>20</m:mtext><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>c</m:mi></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"b rSup { size 8{2} } c}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169114228681">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4a</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4a}  over  {3} } } {}</m:annotation></m:semantics></m:math> – 2<emphasis effect="italics">b</emphasis></para>
+        <para id="id1169115674468">2.1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1a</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1a}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169116921534">2.1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>2a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2a rSup { size 8{2} } }  over  {5} } } {}</m:annotation></m:semantics></m:math> – 3</para>
+        <list id="id1169117686393" list-type="bulleted">
+          <item><emphasis effect="italics">a</emphasis> – 4<emphasis effect="italics">b</emphasis> + 6<emphasis effect="italics">c</emphasis></item>
+          <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> – 5<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis><sup>4</sup> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>9b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9b rSup { size 8{5} } c rSup { size 8{7} } }  over  {a rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></item>
+          <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>mpq</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:msup><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { -  ital "mpq" rSup { size 8{5} } }  over  {n rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>7m</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7m rSup { size 8{5} } n rSup { size 8{4} } }  over  {q rSup { size 8{4} } } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>5p</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>mn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5p rSup { size 8{6} } q rSup { size 8{8} } }  over  { ital "mn" rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id1169111280334">HOMEWORK ASSIGNMENT 1</para>
+        <para id="id1169112544340">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>7p</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>mn</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7p rSup { size 8{7} } q rSup { size 8{3} } }  over  { ital "mn" rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2120700">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ac</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { -  ital "ac" rSup { size 8{2} } }  over  {b} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>12</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"a rSup { size 8{3} } b rSup { size 8{5} } }  over  {c rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> – 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8a rSup { size 8{2} } }  over  {c rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169109929027">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5a rSup { size 8{2} } }  over  {2} } } {}</m:annotation></m:semantics></m:math> – 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>25</m:mtext><m:mi>b</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"b}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2256274"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mrow><m:mrow><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mtext>25</m:mtext></m:mrow><m:mi>b</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {5a rSup { size 8{2} }  - "25"b}  over  {2} }  right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id3279056">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{6} } b rSup { size 8{6} }  "." a rSup { size 8{4} } b rSup { size 8{8} } }  over  {a rSup { size 8{2} } b rSup { size 8{3} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1826111"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>11</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a rSup { size 8{8} } b rSup { size 8{"11"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169110985443">1.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mtext>16</m:mtext><m:msup><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:mrow><m:msup><m:mn>2k</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 left ("16"k rSup { size 8{2} } p rSup { size 8{8} }  right )}  over  {2k rSup { size 8{3} } p rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169121640552"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>24</m:mtext><m:msup><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mi>k</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"24"p rSup { size 8{6} } }  over  {k} } } {}</m:annotation></m:semantics></m:math></para>
+        <list id="id1169115568857" list-type="bulleted">
+          <item>6<emphasis effect="italics">ab</emphasis><sup>2</sup> + 12<emphasis effect="italics">a</emphasis><sup>2</sup> – (6<emphasis effect="italics">ab</emphasis>)</item>
+          <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3b</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3b}  over  {2} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3a</m:mn><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a}  over  {b} } } {}</m:annotation></m:semantics></m:math></item>
+          <item>
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mtext>ab</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msup>
+                                <m:mn>6a</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>ab</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>ab</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 ital "ab" rSup { size 8{2} } +6a rSup { size 8{2} } +2 ital "ab"}  over  {4 ital "ab"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </item>
+        </list>
+        <para id="id6933432">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3b</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3b}  over  {4} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3a</m:mn><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a}  over  {2b} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169113616775">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mn>5a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 5 ital "ab"+"15"a rSup { size 8{4} } b rSup { size 8{7} } }  over  {5a rSup { size 8{3} } b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> = –
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {a rSup { size 8{2} } b} } } {}</m:annotation></m:semantics></m:math> + 3<emphasis effect="italics">ab</emphasis><sup>5</sup></para>
+        <para id="id1169112613856">TUTORIAL </para>
+        <para id="id1169120437966">QUESTION 1</para>
+        <para id="id1169112650328">A.1. False: <emphasis effect="italics">x</emphasis></para>
+        <list id="id8768740" list-type="enumerated" number-style="arabic">
+          <item>True</item>
+          <item>True</item>
+          <item>True</item>
+          <item>False: 2</item>
+          <item>True</item>
+          <item>False: 5 base</item>
+          <item>False</item>
+          <item>False</item>
+          <item>False: 4<emphasis effect="italics">y</emphasis><sup>2</sup></item>
+          <item>False: 7<emphasis effect="italics">x</emphasis> – 14<emphasis effect="italics">y</emphasis></item>
+          <item>False: 5<emphasis effect="italics">x</emphasis><sup>2</sup></item>
+          <item>True</item>
+          <item>True</item>
+        </list>
+        <para id="id1169116799254">B.1. 3<emphasis effect="italics">b</emphasis></para>
+        <para id="id1169112867104">2. <emphasis effect="italics">a</emphasis>+<emphasis effect="italics">b</emphasis></para>
+        <para id="id1169110154595">QUESTION 2</para>
+        <para id="id1169109745545">1. 7; 10; 16; 28</para>
+        <list id="id1169109745075" list-type="enumerated" number-style="arabic">
+          <item>(150 x 3) + 1 = 451</item>
+          <item>(1 000 – 1) ÷ 3 = 333</item>
+        </list>
+        <para id="id6926723">QUESTION 3</para>
+        <para id="id1169111050988">A.1. 2(3)[3(–2) + 5(6)]</para>
+        <para id="id1169112882276"> = 6[–6 + 30] </para>
+        <para id="id1169109972560">= 6[+24] = 144</para>
+        <para id="id6975581">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 -  \(  - 2 \)  -  \( 6 \) }  over  { \(  - 2 \)  -  \( 6 \) } } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3+2 - 6}  over  { - 2 - 6} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id7340189"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 1}  over  { - 8} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169113594586">B.1. 6<emphasis effect="italics">a</emphasis> – 5<emphasis effect="italics">b</emphasis></para>
+        <para id="id1169113622219">2. 2<emphasis effect="italics">x</emphasis> – 4<emphasis effect="italics">y</emphasis> – 1</para>
+        <para id="id1169107024784">QUESTION 4</para>
+        <list id="id1489892" list-type="enumerated" number-style="arabic">
+          <item>4<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis><emphasis effect="italics">c</emphasis> – <emphasis effect="italics">ab</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis></item>
+          <item>15<emphasis effect="italics">a</emphasis><sup>5</sup> – 6<emphasis effect="italics">a</emphasis><sup>5</sup> = 9<emphasis effect="italics">a</emphasis><sup>5</sup></item>
+          <item>12<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>6</sup><emphasis effect="bold"/>(–<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>3</sup>)</item>
+        </list>
+        <para id="id1169106975349">= –12<emphasis effect="italics">a</emphasis><sup>7</sup><emphasis effect="italics">b</emphasis><sup>9</sup></para>
+        <list id="id8040567" list-type="enumerated" number-style="arabic">
+          <item>–15<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>2</sup> + 20<emphasis effect="italics">ab</emphasis><sup>3</sup></item>
+          <item>14<emphasis effect="italics">a</emphasis><sup>2</sup> + 8<emphasis effect="italics">a</emphasis> – 3<emphasis effect="italics">a</emphasis> – 9<emphasis effect="italics">a</emphasis><sup>2</sup> + 4<emphasis effect="italics">a</emphasis><sup>2</sup> + <emphasis effect="italics">a</emphasis></item>
+        </list>
+        <para id="id1169112705024">= 9<emphasis effect="italics">a</emphasis><sup>2</sup> + 6<emphasis effect="italics">a</emphasis></para>
+        <para id="id7935278">6. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>9a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:msup><m:mn>8a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:msup><m:mn>4a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9a rSup { size 8{2} } b rSup { size 8{2} }  "." 8a rSup { size 8{3} } }  over  {4a rSup { size 8{2} } b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> = 18<emphasis effect="italics">a</emphasis><sup>3</sup></para>
+        <para id="id1169115763708">7. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>b</m:mi><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mi>b</m:mi><m:msub><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { {1}} { {4}} rSup { size 8{2} }  { {a}} rSup { size 8{a { {4}}} }  { {b}} rSup { size 8{b { {3}}} } }  over  { { {b}} { {c}} rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math> x 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mi fontstyle="italic">c2</m:mi></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { {1}} { {2}} rSup { size 8{2} }  { {c}} rSup { size 8{ { {4}}c2} } }  over  { -  { {7}} { {a}} rSup { size 8{ { {3}}} }  { {b}} rSup { size 8{ { {2}}} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169107032608"> = -4<emphasis effect="italics">abc</emphasis><sup>2</sup></para>
+        <para id="id1169106973652">QUESTION 5</para>
+        <para id="id5701826">5.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} } b+5 ital "ab" rSup { size 8{2} }  - 6 ital "ab"}  over  { ital "ab"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169114068068"> = <emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> – 6</para>
+        <para id="id6945077">5.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>3a</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mtext>18</m:mtext></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3a rSup { size 8{2} } b+"15" ital "ab" rSup { size 8{2} }  - "18" ital "ab"}  over  { ital "ab"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169121500305"> = 3<emphasis effect="italics">a</emphasis> + 15<emphasis effect="italics">b</emphasis> – 18</para>
+        <para id="id6954982">5.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a rSup { size 8{2} } b+5 ital "ab" rSup { size 8{2} }  - 5 ital "ab"}  over  { ital "ab"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169114594500"> = <emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> – 5</para>
+        <para id="id6868460">TEST </para>
+        <list id="id1169109456728" list-type="bulleted">
+          <item>4<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis><emphasis effect="italics">c</emphasis> – 17<emphasis effect="italics">ab</emphasis><sup>2</sup><emphasis effect="italics">c</emphasis></item>
+          <item>15<emphasis effect="italics">a</emphasis><sup>5</sup> – 15<emphasis effect="italics">a</emphasis><sup>5</sup> = 0</item>
+          <item>7<emphasis effect="italics">ab</emphasis> + 4<emphasis effect="italics">ab</emphasis> = 11<emphasis effect="italics">ab</emphasis></item>
+          <item>3(8<emphasis effect="italics">a</emphasis><sup>6</sup><emphasis effect="italics">b</emphasis><sup>9</sup>) (–<emphasis effect="italics">a</emphasis><sup>6</sup><emphasis effect="italics">b</emphasis><sup>6</sup>)</item>
+        </list>
+        <para id="id4003163">= –24<emphasis effect="italics">a</emphasis><sup>12</sup><emphasis effect="italics">b</emphasis><sup>15</sup></para>
+        <list id="id1169117542987" list-type="bulleted">
+          <item>–7<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>2</sup> + 35<emphasis effect="italics">ab</emphasis><sup>3</sup></item>
+          <item>15<emphasis effect="italics">a</emphasis><sup>2</sup> + 25<emphasis effect="italics">a</emphasis> – 4<emphasis effect="italics">a</emphasis> –8<emphasis effect="italics">a</emphasis><sup>2</sup> + 6<emphasis effect="italics">a</emphasis><sup>2</sup></item>
+        </list>
+        <para id="id1169112580091">=13<emphasis effect="italics">a</emphasis><sup>2</sup> + 21<emphasis effect="italics">a</emphasis></para>
+        <list id="id1169121494471" list-type="bulleted">
+          <item>3(3)[2(–2) + 4(6)]</item>
+        </list>
+        <para id="id1169113011582">= 9 [–4 + 24]</para>
+        <para id="id6974120">= 180</para>
+        <para id="id1169121488226">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 -  \(  - 2 \)  -  \( 6 \) }  over  { \(  - 2 \) + \( 6 \) } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8001933"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3+2 - 6}  over  { - 2+6} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2159591"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {4} } } {}</m:annotation></m:semantics></m:math> = 0</para>
+        <para id="id1169114368709">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3 \( 6 \) }  over  { \( 3 \)  \(  - 2 \)  \( 6 \) } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169112501555"> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>36</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  { - "36"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169117900920"> = –
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169114066451">2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="6pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mn>2</m:mn></m:msup></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9 \(  { {3}} \)  rSup { size 8{ { {5}}}   rSup { size 8{ {} rSup { size 6{3 rSup {2} } } } } } }  over  { - 3 \(  { {3}} \)  rSup { { {3}}} } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169111109785"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">(</m:mo><m:mover><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mover></m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9 \(  { { {9}} \) }  cSup { size 8{3} } }  over  { -  { {3}}} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169110909760"> = –27</para>
+        <list id="id1169110174225" list-type="bulleted">
+          <item>3</item>
+          <item>–5</item>
+          <item>1</item>
+          <item>
+            <equation id="id1169110217847">
+              <m:math>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>5</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ -  {  {1}  over  {5} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </equation>
+          </item>
+        </list>
+        <list id="id5727501" list-type="bulleted">
+          <item>7<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> + 9<emphasis effect="italics">c</emphasis> – (2<emphasis effect="italics">c</emphasis> + 3<emphasis effect="italics">a</emphasis> – 7<emphasis effect="italics">c</emphasis>)</item>
+        </list>
+        <para id="id1981180">= 7<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> + 9<emphasis effect="italics">c</emphasis> – 2<emphasis effect="italics">c</emphasis> + 3<emphasis effect="italics">a</emphasis> – 7<emphasis effect="italics">c</emphasis></para>
+        <para id="id1169116799704">= 4<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> + 14<emphasis effect="italics">c</emphasis></para>
+        <list id="id1169117743317" list-type="bulleted">
+          <item>–3<emphasis effect="italics">k</emphasis> – 7<emphasis effect="italics">m</emphasis> + 2<emphasis effect="italics">n</emphasis> – (<emphasis effect="italics">n</emphasis> + 3<emphasis effect="italics">m</emphasis> 3<emphasis effect="italics">k</emphasis>)</item>
+        </list>
+        <para id="id3964993">= –3<emphasis effect="italics">k</emphasis> – 7<emphasis effect="italics">m</emphasis> + 2<emphasis effect="italics">n</emphasis> – <emphasis effect="italics">n</emphasis> + 3<emphasis effect="italics">m</emphasis> 3<emphasis effect="italics">k</emphasis></para>
+        <para id="id1169112904295">= –6<emphasis effect="italics">k</emphasis> – 10<emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis></para>
+        <list id="id1169111315045" list-type="bulleted">
+          <item>5<emphasis effect="italics">x</emphasis><sup>2</sup> + 6<emphasis effect="italics">x</emphasis> – 9 – (<emphasis effect="italics">x</emphasis><sup>2</sup> – 2<emphasis effect="italics">x</emphasis> + 4)</item>
+        </list>
+        <para id="id7988208">= 5<emphasis effect="italics">x</emphasis><sup>2</sup> + 6<emphasis effect="italics">x</emphasis> – 9 – <emphasis effect="italics">x</emphasis><sup>2</sup> – 2<emphasis effect="italics">x</emphasis> + 4</para>
+        <para id="id1169120378186">= 4<emphasis effect="italics">c</emphasis><sup>2</sup> + 8<emphasis effect="italics">x</emphasis> – 13</para>
+        <list id="id1169112897868" list-type="bulleted">
+          <item>23<emphasis effect="italics">m</emphasis> – <emphasis effect="italics">n</emphasis><sup>2</sup></item>
+          <item>(<emphasis effect="italics">m </emphasis>– <emphasis effect="italics">n</emphasis>) – <emphasis effect="italics">mn</emphasis></item>
+        </list>
+        <list id="id1169110970863" list-type="bulleted">
+          <item>20 – <emphasis effect="italics">y</emphasis></item>
+          <item>50<emphasis effect="italics">y </emphasis>– 10(20 – <emphasis effect="italics">y</emphasis>)</item>
+        </list>
+        <para id="id1169110207160">= 50<emphasis effect="italics">y</emphasis> – 200 + 10<emphasis effect="italics">y</emphasis></para>
+        <para id="id1169109736354">= 60<emphasis effect="italics">y</emphasis> – 200</para>
+        <list id="id1169111079404" list-type="bulleted">
+          <item><emphasis effect="italics">y</emphasis> = <emphasis effect="italics">x</emphasis><sup>2</sup></item>
+        </list>
+        <para id="id2855398">49; 81; 100; 225</para>
+        <list id="id1169121601815" list-type="bulleted">
+          <item><emphasis effect="italics">y</emphasis> = 3<emphasis effect="italics">x</emphasis> + 2</item>
+        </list>
+        <para id="id1169110147752">17; 29; 18</para>
+        <para id="id1169110897720">7. 15<sup>2</sup> = 225</para>
+      </section>
+      <section id="id1169109729269">
+        <title>ENRICHMENT EXERCISE</title>
+        <list id="id1169110983156" list-type="enumerated" number-style="arabic">
+          <item>b</item>
+          <item>a</item>
+          <item>c</item>
+          <item>b</item>
+          <item>e</item>
+          <item>c</item>
+          <item>d</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,617 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Multiplication  in algebra</title>
+  <metadata>
+  <md:content-id>m31107</md:content-id><md:title>Multiplication  in algebra</md:title>
+  <md:abstract/>
+  <md:uuid>b37fccda-064b-4d45-9ec8-19c6ae75dbda</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3612079">
+      <title>MATHEMATICS</title>
+      <para id="para-id3612079">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169121601179">
+      <title>Grade 8 </title>
+      <para id="para-id1169121601179">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169117529090">
+      <title>THE NUMBER SYSTEM</title>
+      <para id="para-id1169117529090">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9008727">
+      <title>(Natural and whole numbers)</title>
+      <para id="para-id9008727">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1631405">
+      <title>Module 5</title>
+      <para id="para-id1631405">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169117994537">
+      <title>MULTIPLICATION IN ALGEBRA</title>
+      <para id="id3618044">CLASS ASSIGNMENT<emphasis effect="italics"> 1</emphasis></para>
+      <list id="id1169116869438" list-type="bulleted">
+        <item>Discover more and more about multiplication in ALGEBRA!</item>
+      </list>
+      <para id="id2351901">1.<emphasis effect="bold"/>Indicate what the following will be equal to...</para>
+      <para id="id2285122">1.1: 2 x 2 x 2 = ....................... (and what the exponent form will be .....................)</para>
+      <para id="id1169121519129">1.2: 2² x 2² x 2<sup>3</sup> x 3² x 3<sup>3 </sup>= .........................</para>
+      <para id="id4278467"> (and what the exponent form will be ......................... )</para>
+      <list id="id1679415" list-type="bulleted">
+        <item>:a x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">a</emphasis> = .........................</item>
+      </list>
+      <para id="id8681902">1.4: <emphasis effect="italics">a</emphasis>² x <emphasis effect="italics">a</emphasis>² x <emphasis effect="italics">a</emphasis><sup>3</sup> = .........................</para>
+      <para id="id1169120715744">Now write out a general rule for the multiplication of exponents: </para>
+      <para id="id1169118033454"/>
+      <para id="id2136117">1.5: 2(<emphasis effect="italics">a</emphasis> - <emphasis effect="italics">b</emphasis>) = ......................... </para>
+      <para id="id4135619"><emphasis effect="bold"/><emphasis effect="bold">distributive law:</emphasis> (2 x <emphasis effect="italics">a</emphasis>) - (2 x <emphasis effect="italics">b</emphasis>)</para>
+      <para id="id8235786">1.6: 3<sup>0 </sup>= .........................  </para>
+      <para id="id1169120709636">1.7: <emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a</emphasis> + <emphasis effect="italics">b</emphasis>)<sup>0</sup> = .........................</para>
+      <para id="id1169121591680"> Therefore: (anything) to the power of 0 = .........................</para>
+      <para id="id1169121553748">1.8: 3<sup>1</sup> = .........................  </para>
+      <para id="id1860264">1.9: 1<sup>200</sup> = .........................</para>
+      <para id="id3794685">2.<emphasis effect="bold"/>What does each of the following mean? Also provide the simplified answer for each one</para>
+      <para id="id1904831">2.1: <emphasis effect="italics">a</emphasis>² =    </para>
+      <para id="id1169116715573">2.2: 2<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis> =  </para>
+      <para id="id1169120801153">2.3: -3(<emphasis effect="italics">a</emphasis> + <emphasis effect="italics">b</emphasis>) =  </para>
+      <para id="id1661493">2.4: 4(<emphasis effect="italics">a</emphasis>)² =  </para>
+      <para id="id1169120772605">2.5: (<emphasis effect="italics">a</emphasis><sup>3</sup>)² =    </para>
+      <para id="id8994714">2.6: (3<emphasis effect="italics">a</emphasis>²)<sup>3</sup> =  </para>
+      <para id="id2139131">2.7: 2<emphasis effect="italics">p</emphasis> x 3<emphasis effect="italics">p</emphasis> =   </para>
+      <para id="id1169120745580">2.8: <emphasis effect="italics">a</emphasis>b² x <emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>3</sup> x <emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis><sup>6</sup> =  </para>
+      <para id="id1830914">2.9: (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><sup>3</sup>)<sup>4</sup> =    </para>
+      <para id="id1169116896336">2.10: 2(<emphasis effect="italics">a</emphasis><sup>3</sup>)² =  </para>
+      <para id="id1169116843589">2.11: 6(2<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis>) =   </para>
+      <para id="id1169120709031">2.12: -7<emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a</emphasis>² - 2<emphasis effect="italics">b</emphasis>² ) =  </para>
+      <para id="id1169116881256">3. Can you recall the order of operations for the following? Write it down.</para>
+      <para id="id1903110">3.1 Now make use of everything you have learnt up till now to calculate the following:</para>
+      <para id="id8974188">3.1.1:  <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">aaa</emphasis> + <emphasis effect="italics">a</emphasis><sup>4</sup></para>
+      <para id="id3107152"/>
+      <para id="id1169118036985">3.1.2:  2(<emphasis effect="italics">a</emphasis> + <emphasis effect="italics">b</emphasis>) - 3(<emphasis effect="italics">a</emphasis> - <emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1169116881971"/>
+      <para id="id4104720">3.1.3:  3<emphasis effect="italics">a</emphasis> x 2<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis> + 5<emphasis effect="italics">a</emphasis>² x (-3<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis>)</para>
+      <para id="id1169120738157"/>
+      <para id="id2146368">3.1.4:  -5<emphasis effect="italics">a</emphasis>(<emphasis effect="italics">a</emphasis> - <emphasis effect="italics">b</emphasis><sup>3</sup>) + 7<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis><sup>3</sup> - 2<emphasis effect="italics">a</emphasis><sup>5</sup></para>
+      <para id="id8996287"/>
+      <para id="id1169116885366">3.1.5:  -3(<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis><sup>4</sup>)² - 5<emphasis effect="italics">a</emphasis><sup>3</sup>(-2<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis>²)<sup>3</sup></para>
+      <para id="id3274227"/>
+      <para id="id1169117540776">4. What is the meaning of the word substitution? </para>
+      <para id="id8276946"/>
+      <para id="id1169120798909"/>
+      <para id="id1169121529326"> Provide an example as explanation:</para>
+      <para id="id1169120675132"/>
+      <para id="id1169120647652"/>
+      <para id="id1169120746652">5. Supposing that a = 5 ; <emphasis effect="italics">b</emphasis> = -1 and <emphasis effect="italics">c</emphasis> = 3 , calculate the value of each of the following:</para>
+      <para id="id2297983">5.1: 5<emphasis effect="italics">a</emphasis>² - 3<emphasis effect="italics">b</emphasis></para>
+      <para id="id1169121642578"/>
+      <para id="id2387328">5.2: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontweight="bold"><m:mrow><m:msup><m:mtext>ab</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow><m:mn>3a</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 bold "ab" rSup { size 8{2} } }  over  {3a} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169120771348"/>
+      <para id="id1829330">5.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mrow><m:mtext/><m:mo stretchy="false">+</m:mo><m:mtext/></m:mrow><m:mi fontstyle="italic">b²</m:mi></m:mrow><m:mrow><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a"  "+"  "b²}  over  {a` - `b} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169120807774"/>
+      <para id="id3313583">5.4: (2<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis>²<emphasis effect="italics">c</emphasis>)²</para>
+      <para id="id1169121573522"/>
+      <para id="id2392045">5.5: -3<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis><sup>3</sup> - 2<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis><sup>3</sup><emphasis effect="italics">c</emphasis></para>
+      <para id="id2812206"/>
+      <para id="id1169120791084"> HOMEWORK ASSIGNMENT<emphasis effect="italics"> 1</emphasis></para>
+      <para id="id1169120767916">1. Simplify each of the following:</para>
+      <para id="id1169120817915">1. (<emphasis effect="italics">a</emphasis><sup>5</sup>)<sup>6 </sup></para>
+      <para id="id1169120714243">1.2: 5(3<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">a</emphasis>)²   </para>
+      <para id="id2408021">1.3: -5(3<emphasis effect="italics">a</emphasis> - 2<emphasis effect="italics">b</emphasis>)   </para>
+      <para id="id9007886">1.4: (3<emphasis effect="italics">a</emphasis>)² . [ (2<emphasis effect="italics">a</emphasis>)² ]<sup>3</sup></para>
+      <para id="id8938773">1.5: <emphasis effect="italics">p</emphasis> x 2 x <emphasis effect="italics">m</emphasis> x <emphasis effect="italics">q</emphasis></para>
+      <para id="id1606256">1.6: <emphasis effect="italics">w</emphasis>² x 3<emphasis effect="italics">b</emphasis> x <sup>1</sup>/<sub>3</sub> b x w  </para>
+      <para id="id8932539">1.7: -5<emphasis effect="italics">a</emphasis> ( 3<emphasis effect="italics">a</emphasis> - 5<emphasis effect="italics">a</emphasis>b)  </para>
+      <para id="id1169118041351">1.8: (3<emphasis effect="italics">a</emphasis>)² (2<emphasis effect="italics">a</emphasis>) + (4<emphasis effect="italics">a</emphasis>²) (-2<emphasis effect="italics">a</emphasis>)  </para>
+      <para id="id1169120714886">1.9: (5<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis>²)<sup>4</sup> - (- 6<emphasis effect="italics">b</emphasis><sup>6</sup><emphasis effect="italics">a</emphasis><sup>4</sup>)  </para>
+      <para id="id1169120723180">1.10: -6<emphasis effect="italics">a</emphasis>²<emphasis effect="italics">b</emphasis> ( 2<emphasis effect="italics">a</emphasis>² - 3<emphasis effect="italics">a</emphasis><emphasis effect="italics">b</emphasis><sup>3</sup> + 5)  </para>
+      <para id="id1820183">2. Supposing that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> = -2 and <emphasis effect="italics">y</emphasis> = -1 , determine the value of ...</para>
+      <para id="id2744075">2.1: (2<emphasis effect="italics">y</emphasis>)(2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>)²  </para>
+      <para id="id1169121526710">2.2: -3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math><sup>3</sup> - 2<emphasis effect="italics">y</emphasis><sup>5</sup></para>
+      <para id="id1169118017451">2.3: (2<emphasis effect="italics">y</emphasis> + 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>)²  </para>
+      <para id="id5334168">3. Supposing <emphasis effect="italics">m</emphasis> = 2 ; <emphasis effect="italics">n</emphasis> = -3 en <emphasis effect="italics">q</emphasis> = 5, determine the value of each of the following expressions:</para>
+      <para id="id4257061">3.1: <emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis> + <emphasis effect="italics">q</emphasis></para>
+      <para id="id1711200">3.2: 4<emphasis effect="italics">m</emphasis> - 2<emphasis effect="italics">n</emphasis> - 3<emphasis effect="italics">q</emphasis></para>
+      <para id="id1169118017379">3.3: 2(<emphasis effect="italics">m</emphasis>² + <emphasis effect="italics">q</emphasis>²) - <emphasis effect="italics">n</emphasis>²  </para>
+      <para id="id2133109">3.4: <sup>m</sup>/<sub>3</sub> + <sup>n</sup>/<sub>4</sub> - <emphasis effect="italics">q</emphasis></para>
+      <para id="id1169121578310">3.5: 3m(<emphasis effect="italics">n</emphasis> + <emphasis effect="italics">q</emphasis>) - 2(<emphasis effect="italics">m</emphasis> + <emphasis effect="italics">n</emphasis>²)  </para>
+      <para id="id1169118028158">4. A challenge: See if the knowledge that you have acquired is able to help you solve the problems that follow.</para>
+      <para id="id3250122">4.1 The average speed of an Intercape Mainliner is 5<emphasis effect="italics">a</emphasis><sup>4</sup> kilometres per hour.What is the distance that the bus can complete in (5<emphasis effect="italics">a</emphasis><sup>3</sup> + 5<emphasis effect="italics">a</emphasis> - 6) hours?</para>
+      <para id="id1169116885044">4.2 Miss South Africa buys (<emphasis effect="italics">a</emphasis> - <emphasis effect="italics">b</emphasis> + 2<emphasis effect="italics">c</emphasis>) litres of milk at 4<emphasis effect="italics">ab</emphasis> rands per litre and 5<emphasis effect="italics">ab</emphasis> litres of fruit juice at (2<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> - 3<emphasis effect="italics">c</emphasis>) rands per litre. </para>
+      <para id="id1169121551774">What will these purchases cost in total?</para>
+      <para id="id2366334">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessment </emphasis>
+      </para>
+      <table id="id1169120680421" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessment of myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">by myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessment by Teacher:</entry>
+            </row>
+            <row>
+              <entry>I can…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Critical Outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>write expressions in exponent form; (Lo 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Critical and creative thinking</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>successfully add exponents together; (Lo 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Collaborating</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>successfully subtract exponents from each other; (Lo 2.2; 1.6.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organising en managing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>successfully multiply exponents with each other; (Lo 2.2; 2.8.3&amp;.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Processing of information</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>solve expressions with brackets; (Lo 2.2; 2.8.5)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>apply the correct order of calculations; (Lo 2.2; 2.8.5)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Problem solving</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine values of expressions with substitution.  (Lo 2.2; 2.8.5; 1.6.2; 1.6.3)</entry>
+              <entrytbl namest="c2" nameend="c16" cols="15">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <colspec colnum="6" colname="c6"/>
+                <colspec colnum="7" colname="c7"/>
+                <colspec colnum="8" colname="c8"/>
+                <colspec colnum="9" colname="c9"/>
+                <colspec colnum="10" colname="c10"/>
+                <colspec colnum="11" colname="c11"/>
+                <colspec colnum="12" colname="c12"/>
+                <colspec colnum="13" colname="c13"/>
+                <colspec colnum="14" colname="c14"/>
+                <colspec colnum="15" colname="c15"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry>Independence</entry>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169120665632">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id2928564" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Comments by the learner:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan of action:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My marks:</entry>
+            </row>
+            <row>
+              <entry>I am very satisfied with the standard of my work.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I am satisfied with the steady progress I have made.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I have worked hard, but my achievement is not satisfactory.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I did not give my best.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id5446369" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Comments by parents:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id2869225">
+      <title>Memorandum</title>
+      <section id="id5341278">
+        <title>CLASWORK ASSIGNMENT 1</title>
+        <list id="id2196715" list-type="bulleted">
+          <item>:2<sup>3</sup></item>
+          <item>:2<sup>12</sup></item>
+          <item>
+            <emphasis effect="italics">:a</emphasis>
+            <sup>3</sup>
+          </item>
+          <item>
+            <emphasis effect="italics">:a</emphasis>
+            <sup>7</sup>
+          </item>
+        </list>
+        <para id="id5333655">Multiply and bases are the same: you add the exponents.</para>
+        <list id="id1169121432718" list-type="bulleted">
+          <item>:2<emphasis effect="italics">a</emphasis> – 2<emphasis effect="italics">b</emphasis></item>
+          <item>:1</item>
+        </list>
+        <para id="id1696594">1.7<emphasis effect="italics"> :a</emphasis></para>
+        <list id="id2765615" list-type="bulleted">
+          <item>:3</item>
+          <item>:1</item>
+        </list>
+        <list id="id1169116898301" list-type="bulleted">
+          <item><emphasis effect="italics">:a</emphasis> x <emphasis effect="italics">a</emphasis></item>
+          <item>:2 x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">b</emphasis></item>
+          <item>:–3<emphasis effect="italics">a</emphasis> – 3<emphasis effect="italics">b</emphasis></item>
+          <item>:4 x <emphasis effect="italics">a</emphasis> x <emphasis effect="italics">a</emphasis> = 4<emphasis effect="italics">a</emphasis><sup>2</sup></item>
+          <item><emphasis effect="italics">:a</emphasis><sup>3</sup> x <emphasis effect="italics">a</emphasis><sup>3</sup> – <emphasis effect="italics">a</emphasis><sup>6</sup></item>
+          <item>:27<emphasis effect="italics">a</emphasis><sup>6</sup></item>
+          <item>:6<emphasis effect="italics">p</emphasis><sup>2</sup></item>
+          <item>
+            <emphasis effect="italics">:a</emphasis>
+            <sup>4</sup>
+            <emphasis effect="italics">b</emphasis>
+            <sup>11</sup>
+          </item>
+          <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"16"} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><sup>12</sup></item>
+          <item>:2<emphasis effect="italics">a</emphasis><sup>6</sup></item>
+          <item>:12<emphasis effect="italics">a</emphasis> – 18<emphasis effect="italics">b</emphasis></item>
+          <item>:–7<emphasis effect="italics">a</emphasis><sup>3</sup> + 14<emphasis effect="italics">ab</emphasis><sup>2</sup></item>
+        </list>
+        <para id="id3825100">3.1 :1: ( )</para>
+        <para id="id2445514"> :2: of</para>
+        <para id="id2911859"> 3: x or ÷ from left to right</para>
+        <para id="id1169120719033"> 4: + or – from left to right</para>
+        <list id="id1169120436889" list-type="bulleted">
+          <item><emphasis effect="italics">:a</emphasis><sup>5</sup> + <emphasis effect="italics">a</emphasis><sup>4</sup></item>
+          <item>:2<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">b</emphasis> – 3<emphasis effect="italics">a</emphasis> + 3<emphasis effect="italics">b</emphasis> = -<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis></item>
+          <item>:–18<emphasis effect="italics">a</emphasis><sup>6</sup><emphasis effect="italics">b</emphasis><sup>2</sup></item>
+          <item>: –5<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">ab</emphasis><sup>3 </sup>+ 7<emphasis effect="italics">ab</emphasis><sup>3</sup> – 2<emphasis effect="italics">a</emphasis><sup>5</sup></item>
+        </list>
+        <para id="id1169120722421">:=-5<emphasis effect="italics">a</emphasis><sup>2</sup> + 12<emphasis effect="italics">ab</emphasis><sup>3</sup> + 7<emphasis effect="italics">ab</emphasis><sup>3</sup> – 2<emphasis effect="italics">a</emphasis><sup>5</sup></para>
+        <list id="id7414925" list-type="bulleted">
+          <item>:–3<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>8</sup> + 10<emphasis effect="italics">a</emphasis><sup>15</sup><emphasis effect="italics">b</emphasis><sup>6</sup></item>
+        </list>
+        <para id="id3804928">4. put another value in unknown place</para>
+        <list id="id1169120591914" list-type="bulleted">
+          <item>:5(5)<sup>2</sup>–3(–1) </item>
+        </list>
+        <para id="id1169120730221">= 125 + 3 = 128</para>
+        <list id="id8759368" list-type="bulleted">
+          <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 \( 5 \)  \(  - 1 \)  rSup { size 8{2} } }  over  {3 \( 5 \) } } } {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id1169120829107">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        <list id="id9007857" list-type="bulleted">
+          <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { \( 5 \) + \(  - 1 \)  rSup { size 8{2} } }  over  {5 -  \(  - 1 \) } } } {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id1169120805413">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 1</para>
+        <list id="id2860537" list-type="bulleted">
+          <item>:[2(5)(–1)<sup>2</sup>(3)]<sup>2</sup></item>
+        </list>
+        <para id="id9014230">= [30]<sup>2</sup> = 900</para>
+        <list id="id1169117562861" list-type="bulleted">
+          <item>:–3(5)(–1)<sup>3</sup>–2(5)(–1)<sup>3</sup>(3) </item>
+        </list>
+        <para id="id1169120447895">= 15 + 30 = 45</para>
+      </section>
+      <section id="id7476408">
+        <title>CLASSWORK ASSIGNMENT1</title>
+        <list id="id3100452" list-type="bulleted">
+          <item>:9<sup>30</sup></item>
+          <item>:5(–4<emphasis effect="italics">a</emphasis>)<sup>2</sup> = 80<emphasis effect="italics">a</emphasis><sup>2</sup></item>
+          <item>:–15<emphasis effect="italics">a</emphasis> + 10<emphasis effect="italics">b</emphasis></item>
+          <item>:9<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="bold">.</emphasis>64<emphasis effect="italics">a</emphasis><sup>6</sup> = 576<emphasis effect="italics">a</emphasis><sup>8</sup></item>
+          <item>:2<emphasis effect="italics">mpq</emphasis></item>
+          <item>
+            <emphasis effect="italics">:b</emphasis>
+            <sup>2</sup>
+            <emphasis effect="italics">w</emphasis>
+            <sup>3</sup>
+          </item>
+          <item>:–15<emphasis effect="italics">a</emphasis><sup>2</sup> + 25<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis></item>
+          <item>:6<emphasis effect="italics">a</emphasis><sup>3</sup> – 8<emphasis effect="italics">a</emphasis><sup>3</sup> = –2<emphasis effect="italics">a</emphasis><sup>3</sup></item>
+          <item>:625<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>8</sup> + 6<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis><sup>6</sup></item>
+          <item>:–12<emphasis effect="italics">a</emphasis><sup>4</sup><emphasis effect="italics">b</emphasis> + 18<emphasis effect="italics">a</emphasis><sup>3</sup><emphasis effect="italics">b</emphasis><sup>4</sup> – 30<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis></item>
+        </list>
+        <list id="id1169121543052" list-type="bulleted">
+          <item>:[2(–1)][2(2)]<sup>2</sup></item>
+        </list>
+        <para id="id1169116841552">=(–2)(16) = –32</para>
+        <list id="id1169120804355" list-type="bulleted">
+          <item>:–3(–2)<sup>3</sup>–2(–1)<sup>5</sup></item>
+        </list>
+        <para id="id4267951">= 24 + 2 = 26</para>
+        <list id="id2302282" list-type="bulleted">
+          <item>:[2(–1) + 2(–2)]<sup>2</sup></item>
+        </list>
+        <para id="id2089902">= [–2–4] </para>
+        <para id="id1169118017880">= (–6)<sup>2</sup></para>
+        <para id="id2227565">= 36</para>
+        <list id="id2317406" list-type="bulleted">
+          <item>:2 + (–3) + = 4</item>
+          <item>:4(2) – 2(–3) – 3(5)</item>
+        </list>
+        <para id="id4202061">= 8 + 6 – 15 = –1</para>
+        <list id="id1169121601922" list-type="bulleted">
+          <item>:2[(2)<sup>2</sup> + (5)<sup>2</sup>] – (–3)<sup>2</sup></item>
+        </list>
+        <para id="id1169120307235">= 2[4 + 25] – (–3)<sup>2</sup></para>
+        <para id="id3903535">= 58 – 9 = 49</para>
+        <para id="id1169120668855">3.4 :
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 3}  over  {4} } } {}</m:annotation></m:semantics></m:math> – 5</para>
+        <para id="id7830593"> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { - 1}  over  {4} } } {}</m:annotation></m:semantics></m:math> – 5 = 5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1169121588459">3.5 :3(2)[–3 + 5] – 2 [2 + (–3)<sup>2</sup>]</para>
+        <para id="id3637164">= 6[2] – 2[11]</para>
+        <para id="id2157662">= 12 – 2</para>
+        <para id="id8948813">= –10</para>
+        <list id="id1169121557728" list-type="bulleted">
+          <item>:5<emphasis effect="italics">a</emphasis><sup>4</sup>(5<emphasis effect="italics">a</emphasis><sup>3</sup> + 5<emphasis effect="italics">a</emphasis> – 6)</item>
+        </list>
+        <para id="id2401945">= 25<emphasis effect="italics">a</emphasis><sup>7</sup> + 25<emphasis effect="italics">a</emphasis><sup>5</sup> – 30<emphasis effect="italics">a</emphasis><sup>4</sup></para>
+        <list id="id1169120377037" list-type="bulleted">
+          <item>:4<emphasis effect="italics">ab</emphasis>(<emphasis effect="italics">a</emphasis> – <emphasis effect="italics">b</emphasis> + 2<emphasis effect="italics">c</emphasis>) + 5<emphasis effect="italics">ab</emphasis>(2<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> – 3<emphasis effect="italics">c</emphasis>)</item>
+        </list>
+        <para id="id1819731">= 4<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> – 4<emphasis effect="italics">ab</emphasis><sup>2</sup> + 8<emphasis effect="italics">ab</emphasis><emphasis effect="italics">c</emphasis> + 10<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> + 25<emphasis effect="italics">ab</emphasis><sup>2</sup> – 15<emphasis effect="italics">ab</emphasis><emphasis effect="italics">c</emphasis></para>
+        <para id="id1169117740198">= 14<emphasis effect="italics">a</emphasis><sup>2</sup><emphasis effect="italics">b</emphasis> + 21<emphasis effect="italics">ab</emphasis><sup>2</sup> – 7<emphasis effect="italics">ab</emphasis>c</para>
+      </section>
+    </section>
+  </content>
+</document>

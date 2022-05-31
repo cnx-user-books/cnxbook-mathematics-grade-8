@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Classifiying, measuring and constructing angles</title>
+  <metadata>
+  <md:content-id>m31541</md:content-id><md:title>Classifiying, measuring and constructing angles</md:title>
+  <md:abstract/>
+  <md:uuid>53257060-a9fc-4c78-a466-bbd4664a0f84</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6709200">
+      <title>MATHEMATICS</title>
+      <para id="para-id6709200">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5844584">
+      <title>Grade 8 </title>
+      <para id="para-id5844584">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12916354">
+      <title>INTEGERS, EQUASIONS AND GEOMETRY</title>
+      <para id="para-id12916354">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9102278">
+      <title>Module 9</title>
+      <para id="para-id9102278">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7823178">
+      <title>CLASSIFYING , MEASURING AND CONSTRUCTING ANGLES</title>
+      <para id="id7230249">1. How do you construct (draw) any size of angle?</para>
+      <para id="id14780106">To do this, you require the following: </para>
+      <para id="id13689253">compasses, protractor and ruler</para>
+      <para id="id9141307">General: construction of e.g. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math> = 60°</para>
+      <list id="id9981969" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Start by drawing a line</item>
+      </list>
+      <para id="id15483520">b) Make a mark on the line</para>
+      <para id="id6042069">c) Place your protractor’s mark in the middle of your mark</para>
+      <para id="id6369960">d) Read from the 0º on the right-hand side to the desired degree</para>
+      <figure id="id14381257">
+        <media id="id14381257_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 119.png" id="id14381257__onlineimage" height="115" width="295"/>
+        </media>
+      </figure>
+      <para id="id9863944"/>
+      <para id="id7907802">e) Name your angle correctly [e.g. <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math></emphasis> = 60° or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}} rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> = 60° ]</para>
+      <para id="id9202584">2. How would you go about constructing an angle of, for example, 330º if the protractor can measure only angle sizes up to 180º?Write down your plan below:</para>
+      <para id="id7820314"/>
+      <para id="id14527193"/>
+      <para id="id12779009">3. Construct the following angles and classify each and indicate the limits of degrees. E.g. <emphasis effect="bold">60° -- acute angle</emphasis><emphasis effect="bold">(classification) --- 0° &lt; </emphasis><emphasis effect="italics">x</emphasis><emphasis effect="bold"> &lt; 90° (limits of</emphasis><emphasis effect="bold">°)</emphasis>Limits of ° are read as follows: <emphasis effect="italics">x</emphasis> greater than 0° and smaller than 90°</para>
+      <table id="id6897427" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Angle</entry>
+              <entry>Sketch</entry>
+              <entry>Classification(kind of angle)</entry>
+              <entry>Limits of °</entry>
+            </row>
+            <row>
+              <entry>3.1</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>R</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P { hat  {Q}}R} {}</m:annotation></m:semantics></m:math> = 75°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.2</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A { hat  {B}}C} {}</m:annotation></m:semantics></m:math> = 125°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.3</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>H</m:mi><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H { hat  {F}}G} {}</m:annotation></m:semantics></m:math> = 325°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.4</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>E</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C { hat  {D}}E} {}</m:annotation></m:semantics></m:math> = 180°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.5</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>K</m:mi><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>M</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K { hat  {L}}M} {}</m:annotation></m:semantics></m:math> = 90°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.6</entry>
+              <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>R</m:mi><m:mover accent="true"><m:mi>S</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mi>T</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R { hat  {S}}T} {}</m:annotation></m:semantics></m:math> = 360°</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id12189148"> HOMEWORK ASSIGNMENT 1</para>
+      <list id="id10992267" list-type="enumerated" number-style="arabic">
+        <item>There are angles all around you....Determine the size of each of the angles indicated (with the aid of your protractor),write down the size of the angle concernedand classify it.</item>
+      </list>
+      <para id="id6607976"><figure id="id6607979"><media id="id6607979_media" alt=""><image mime-type="image/png" src="../../media/graphics1-eb6f.png" id="id6607979__onlineimage" height="198" width="259"/></media></figure>1.1</para>
+      <para id="id8710121"><figure id="id10079795"><media id="id10079795_media" alt=""><image mime-type="image/png" src="../../media/graphics2-f91c.png" id="id10079795__onlineimage" height="164" width="271"/></media></figure>1.2</para>
+      <para id="id5838361">1.3</para>
+      <figure id="id10028316">
+        <media id="id10028316_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-14a0.png" id="id10028316__onlineimage" height="203" width="148"/>
+        </media>
+      </figure>
+      <para id="id14639181"/>
+      <para id="id11103259">1.4</para>
+      <figure id="id7235683">
+        <media id="id7235683_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-97a7.png" id="id7235683__onlineimage" height="310" width="328"/>
+        </media>
+      </figure>
+      <para id="id8858178">1.5</para>
+      <figure id="id14740950">
+        <media id="id14740950_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-24fb.png" id="id14740950__onlineimage" height="242" width="230"/>
+        </media>
+      </figure>
+      <para id="id14693552"/>
+      <para id="id7914817">1.6</para>
+      <figure id="id14380291">
+        <media id="id14380291_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-56a4.png" id="id14380291__onlineimage" height="152" width="152"/>
+        </media>
+      </figure>
+      <para id="id14056354">1.7</para>
+      <figure id="id6458225">
+        <media id="id6458225_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-554b.png" id="id6458225__onlineimage" height="170" width="352"/>
+        </media>
+      </figure>
+      <para id="id12988113">1.8</para>
+      <para id="id13800163"><figure id="id13800166"><media id="id13800166_media" alt=""><image mime-type="image/png" src="../../media/graphics9.png" id="id13800166__onlineimage" height="142" width="150"/></media></figure>1.9</para>
+      <para id="id14112633"/>
+      <para id="id13453100"><figure id="id7345660"><media id="id7345660_media" alt=""><image mime-type="image/png" src="../../media/graphics10.png" id="id7345660__onlineimage" height="272" width="380"/></media></figure>1.10</para>
+      <para id="id6018981">1.11</para>
+      <figure id="id11453015">
+        <media id="id11453015_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics11.png" id="id11453015__onlineimage" height="242" width="163"/>
+        </media>
+      </figure>
+      <para id="id9263027">1.12</para>
+      <figure id="id6802465">
+        <media id="id6802465_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12.png" id="id6802465__onlineimage" height="234" width="232"/>
+        </media>
+      </figure>
+      <para id="id6726133"/>
+      <para id="id7637751">1.13</para>
+      <figure id="id6951843">
+        <media id="id6951843_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics13.png" id="id6951843__onlineimage" height="176" width="236"/>
+        </media>
+      </figure>
+      <para id="id11825106">1.14</para>
+      <figure id="id9956307">
+        <media id="id9956307_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics14.png" id="id9956307__onlineimage" height="185" width="306"/>
+        </media>
+      </figure>
+      <para id="id12801120"/>
+      <para id="id11820744">1.15</para>
+      <para id="id5895748">1.16</para>
+      <figure id="id12979003">
+        <media id="id12979003_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics16.png" id="id12979003__onlineimage" height="320" width="235"/>
+        </media>
+      </figure>
+      <para id="id8571966">2. Construct the following angles by using your ruler and protractor.</para>
+      <para id="id7952283">2.1 A watch with an angle of 45º between the two numbers.</para>
+      <para id="id9923784"/>
+      <para id="id9279228">2.2 A sun bed with an angle of 160°</para>
+      <para id="id10749713">2.3 A helicopter dropping at an angle of 35º with horizontal.</para>
+      <para id="id5915862">2.4 A reading lamp with angles 115º and 65º.</para>
+    </section>
+    <section id="id11470115">
+      <title>Memorandum</title>
+      <para id="id9914846">CLASSWORK ASSIGNMENT 1</para>
+      <para id="id9914850">2. 360<sup>0</sup> – 330<sup>0</sup> = 30<sup>0</sup></para>
+      <para id="id10699255"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math> Construct 30<sup>0</sup></para>
+      <list id="id7809561" list-type="bulleted">
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Acute angle   0<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">Q</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 90<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Obtuse angle   90<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">B</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 180<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Reflexangle   180<sup>0</sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">F</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> 360<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Straight (flat) angle  <emphasis effect="italics">D</emphasis> = 180<sup>0</sup></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ and } {}</m:annotation></m:semantics></m:math>Right angle   <emphasis effect="italics">L </emphasis>= 90<sup>0</sup></item>
+        <item>Angle of rotation  <emphasis effect="italics">S</emphasis> = 360<sup>0</sup></item>
+      </list>
+      <section id="id8980495">
+        <title>HOMEWORK ASSIGNMENT 1 AND 2</title>
+        <list id="id13713814" list-type="bulleted">
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id13150671">1.4 Reflex 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></para>
+        <list id="id12442993" list-type="bulleted">
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Reflex 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> and Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+          <item>Obtuse 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math> and Acute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+        </list>
+        <para id="id12908385">CLASSWORK ASSIGNMENT 2</para>
+        <para id="id4665329">1.a) Acute angle</para>
+        <para id="id3962190">b) one right angle</para>
+        <para id="id13311971">c) one obtuse angle</para>
+        <list id="id6708266" list-type="bulleted">
+          <item>acute-angled </item>
+          <item>right-angled / acute-angled</item>
+          <item>obtuse-angled </item>
+          <item>right-angled</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

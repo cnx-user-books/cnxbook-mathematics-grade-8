@@ -1,0 +1,1494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Prime factors, square roots and cube roots</title>
+  <metadata>
+  <md:content-id>m31099</md:content-id><md:title>Prime factors, square roots and cube roots</md:title>
+  <md:abstract/>
+  <md:uuid>072dbbd4-50e2-4204-881d-0c39ff973a68</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170097045113">
+      <title>MATHEMATICS</title>
+      <para id="para-id1170097045113">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8503747">
+      <title>Grade 8 </title>
+      <para id="para-id8503747">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170094959822">
+      <title>THE NUMBER SYSTEM</title>
+      <para id="para-id1170094959822">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170099243458">
+      <title>Module 2</title>
+      <para id="para-id1170099243458">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170096994125">
+      <title>PRIME FACTORS, SQUARE ROOTS AND CUBE ROOTS</title>
+      <para id="id8121871">CLASS ASSIGNMENT 1</para>
+      <para id="id8190735">1. Prime factors</para>
+      <list id="id8494348" list-type="bulleted">
+        <item>How do you write a number as the product of its prime factors? </item>
+        <item>And how do you write it in exponent notation?</item>
+      </list>
+      <para id="id1170098168486"> E.g. Question: Write 24 as the product of its prime factors(remember that prime factors are used as divisors only)</para>
+      <table id="id1170101841154" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>2</entry>
+              <entry>24</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170101835745"> Prime factors of 24 = {2; 3}</para>
+      <para id="id1170097096702"> 24 as product of its prime factors: 24 = 2 x 2 x 2 x 3</para>
+      <para id="id1170095735937"> 24 = 2<sup>3</sup> x 3 (exponential notation)</para>
+      <list id="id1170096994676" list-type="bulleted">
+        <item>Now express each of the following as the product of their prime factors(exponential notation) and also write the prime factors of each.</item>
+      </list>
+      <para id="id1170099187531">
+        <figure id="id3121572">
+          <media id="id3121572_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 93.png" id="id3121572__onlineimage" height="255" width="618"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170094967064">2. Square roots and cube roots</para>
+      <list id="id5986258" list-type="bulleted">
+        <item>How do you determine the square root (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow/></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {} } {}</m:annotation></m:semantics></m:math>)or cube root (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {} } {}</m:annotation></m:semantics></m:math>)of a number with the help of prime factors?</item>
+        <item>Do you recall this?  </item>
+      </list>
+      <figure id="id1170094867467">
+        <media id="id1170094867467_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 94.png" id="id1170094867467__onlineimage" height="99" width="334"/>
+        </media>
+      </figure>
+      <list id="id1170099870886" list-type="bulleted">
+        <item> Determine: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math>Step 1: break down into prime factors Step 2: write as product of prime factors (in exponential notation)Step 3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> means (324)<sup>½ </sup>(obtain half of each exponent)</item>
+      </list>
+      <table id="id7934722" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>2</entry>
+              <entry>324</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>162</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>81</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>27</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170100951332">Therefore: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> = (2<sup>2</sup> x 3<sup>4</sup>)<sup>½</sup> = 2<sup>1</sup> x 3<sup>2</sup> = 2 x 9 = 18</para>
+      <para id="id8186370">(324 is a perfect square, because 18 x 18 = 324)</para>
+      <list id="id1170094995510" list-type="bulleted">
+        <item>Remember: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi/></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {```} } {}</m:annotation></m:semantics></m:math> means (......)<sup>½ </sup>and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mi/><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {```} } {}</m:annotation></m:semantics></m:math> means (......)<sup>1/3</sup></item>
+      </list>
+      <para id="id1170096900159"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:msup><m:mn>8x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8x rSup { size 8{"12"} } } `=`2x rSup { size 8{"12" div 3=4} } } {}</m:annotation></m:semantics></m:math> therefore 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x rSup { size 8{4} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170097128415">2.1 Calculate with the help of prime factors:</para>
+      <para id="id4752119">(i) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>1 024</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"1 024"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1170099071524" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1024</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170095864972">(ii) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>1000</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"1000"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1170100042427" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1000</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170093921458">2.2 Calculate:</para>
+      <para id="id1170094510999">a) (2 x 3)² =  </para>
+      <para id="id1170094646453">b) 3 x 8² =  </para>
+      <para id="id1170099963101">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {1} } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1170100824966">d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mrow/></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot {}  {1} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170098170617">e) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {2}  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>=   </para>
+      <para id="id8197910">f) then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:msqrt><m:mtext>17</m:mtext></m:msqrt></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( sqrt {"17"}  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id7463628">g) (3 + 4)<sup>3</sup> + 14 =   </para>
+      <para id="id1170097159635">h) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mtext>36</m:mtext></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"} `+` sqrt {9} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170097909419">i) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>36</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mtext>64</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"`+`"64"} } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1170099205668">j) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {1} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170099533167">k) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  nroot { size 8{3} }  {"27"}  \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =   </para>
+      <para id="id1170094957221">l) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>64</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>12</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"x rSup { size 8{"12"} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id5802216">HOMEWORK ASSIGNMENT 1</para>
+      <para id="id1170101089091">1. Determine the answers with the help of prime factors:</para>
+      <para id="id1170096608029">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>4</m:mn><m:mi/><m:mtext>096</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {4`"096"} } {}</m:annotation></m:semantics></m:math>     1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>1</m:mn><m:mi/><m:mtext>296</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {1`"296"} } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1170096972974" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>4 096</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>1 296</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4488860">2. Determine the answers without using a calculator.</para>
+      <para id="id1170097010585">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mtext>.</m:mtext><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {3 "." 3 "." 3 "." 3 "." 3 rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170099505648">2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi/><m:msup><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mi/><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {5 rSup { size 8{3} } `a rSup { size 8{6} } `b rSup { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170095895670">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>8</m:mn><m:mrow><m:mi/><m:mo stretchy="false">÷</m:mo><m:mi/></m:mrow><m:mtext>125</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>27</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8` div `"125"` times `"27"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170096911121">2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mtext>64</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mo stretchy="false">(</m:mo><m:mi/><m:mroot><m:mtext>64</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mi/><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"64"} `+` \( ` nroot { size 8{3} }  {"64"} ` \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170096808489">2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mi/><m:mo stretchy="false">(</m:mo><m:mi/><m:mroot><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mi/><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2` \( ` nroot { size 8{3} }  {8} ` \)  rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170101916527">2.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>169</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"169"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id6685563">2.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>4</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>12</m:mtext><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { \( 6`+`4` times `"12" \)  rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id8862813">2.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow><m:mi/><m:mn>8</m:mn><m:mrow><m:mi/><m:mo stretchy="false">×</m:mo><m:mi/></m:mrow><m:mtext>12</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {6` times 1`8` times `"12"} } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170094969733">2.9 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 \(  sqrt {9}  \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170095005393">2.10 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>3</m:mn><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { \( 6`+`3 \)  rSup { size 8{2} } } ` - `3 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> =  </para>
+      <para id="id1170096214426">CLASS ASSIGNMENT 2</para>
+      <para id="id1170100821852">1. Give the meaning of the following in your own words (discuss it in your group)</para>
+      <list id="id1170099519373" list-type="bulleted">
+        <item><emphasis effect="bold">LCM</emphasis>:</item>
+      </list>
+      <para id="id1170101078733"/>
+      <para id="id1170096897418">Explain it with the help of an example</para>
+      <para id="id1170096269983"/>
+      <list id="id8264397" list-type="bulleted">
+        <item><emphasis effect="bold">BCD</emphasis>:</item>
+      </list>
+      <para id="id1170096342627"/>
+      <para id="id1170101039023">Explain it with the help of an example</para>
+      <para id="id1170094941899"/>
+      <para id="id1170099172282">2. How would you determine the LCM and BCD of the following numbers?</para>
+      <para id="id1170094988943">8; 12; 20</para>
+      <para id="id1170099857019"><emphasis effect="italics">Step 1:</emphasis> Write each number as the product of its prime factors.(Preferably not in exponential notation)</para>
+      <para id="id1170096791917">  8 = 2 x 2 x 2</para>
+      <para id="id8589168">  12 = 2 x 2 x 3</para>
+      <para id="id5037291">  20 = 2 x 2 x 5</para>
+      <para id="id1170100010795"><emphasis effect="italics">Step 2:</emphasis> First determine the BCD (the number/s occurring in each of the three)Suggestion: If the 2 occurs in each of the three, circle the 2 in each number and write it down once), etc.</para>
+      <para id="id1170096615401">  BCD = 2 x 2 = 4</para>
+      <para id="id8231242"><emphasis effect="italics">Step 3:</emphasis> Now determine the LCM. First write down the BCD and then find the number that occurs in two of the numbers and write it down, finally writing what is left over)</para>
+      <para id="id1170095806252">  LCM = 4 x 2 x 3 x 5 = 120</para>
+      <para id="id1170096090822">3. Do the same and determine the BCD and LCM of the following:</para>
+      <para id="id1170094952772">38; 57; 95</para>
+      <para id="id1170097051355">Calculate it here:</para>
+      <para id="id1170099916430">  38 = ....................................................................</para>
+      <para id="id1170094955936">  57 = ....................................................................</para>
+      <para id="id8950204">  95 = ....................................................................</para>
+      <para id="id1170100023751">BCD = .................................. and LCM = ..................................</para>
+      <para id="id7033377">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessment </emphasis>
+      </para>
+      <table id="id1170096335106" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessment of myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">by myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessment by Teacher:</entry>
+            </row>
+            <row>
+              <entry>I can…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Critical Outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>determine prime factors of a number; (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Critical and creative thinking</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>express a number as the product of its prime factors; (Lo 1.2.6; 1.2.3)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Collaborating</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>express prime factors in exponent notation; (Lo 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organising en managing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine the square root of a number; (Lo 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Processing of information</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine the cube root of a number. (Lo 1.2.7)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine/define the smallest common factor (<emphasis effect="bold">LCM</emphasis>); (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Problem solving</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine/define the biggest common divider (<emphasis effect="bold">BCD</emphasis>). (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Independence</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8180917">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id1170097106376" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Comments by the learner:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan of action:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My marks:</entry>
+            </row>
+            <row>
+              <entry>I am very satisfied with the standard of my work.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I am satisfied with the steady progress I have made.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I have worked hard, but my achievement is not satisfactory.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I did not give my best.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1170099318866" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Comments by parents:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170099611501">Tutorial 1: (Number Systems)</para>
+      <para id="id1170096087484">Total: 30</para>
+      <para id="id1170099158446">1. Simplify:</para>
+      <para id="id7909487">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>100</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext>36</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"` - `"36"} } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1170094955580">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>25</m:mtext><m:mtext>49</m:mtext></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"25"}  over  {"49"} } } } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1170096894186">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 rSup { size 8{6} } 3 rSup { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170094501986">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mn>9</m:mn></m:msqrt><m:mi/><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msqrt><m:mtext>16</m:mtext></m:msqrt><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9} ` \(  sqrt {9} `+` sqrt {"16"}  \) } {}</m:annotation></m:semantics></m:math>   [3]</para>
+      <para id="id1170100019579">1.5 9²   [1]</para>
+      <para id="id1170096899555">1.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mtext>4,</m:mtext><m:mi/><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {a} `=`"4,"~a`=`} {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1170099908277">1.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mroot><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mtext>5,</m:mtext><m:mi/><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {a} `=`"5,"~a`={}} {}</m:annotation></m:semantics></m:math>   [1]<emphasis effect="bold"> [10]</emphasis></para>
+      <para id="id1170096877740">2. Use the 324, and answer the following questions:</para>
+      <para id="id8979320">2.1 Is 324 divisible by 3? Give a reason for your answer. [2]</para>
+      <para id="id6479621"/>
+      <para id="id1170101797542">2.2 Write 324 as the product of its prime factors [3]</para>
+      <table id="id1170100789928" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>324</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8864486">2.3 Now determine 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>324</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"324"} } {}</m:annotation></m:semantics></m:math> [2]</para>
+      <para id="id8521490"/>
+      <para id="id1170094796755">2.4 Is 324 a perfect square? Give a reason for your answer.  [2] <emphasis effect="bold">[9]</emphasis></para>
+      <para id="id1170095772394"/>
+      <para id="id1170095844082">3. Determine each of the following without using your calculator.</para>
+      <para id="id1170095843137">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>81</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"81"} } {}</m:annotation></m:semantics></m:math>   [1]</para>
+      <para id="id1170095927092">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>36</m:mtext><m:mn>4</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"36"}  over  {4} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170096974395">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3 rSup { size 8{2} } `+`4 rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170096158195">3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>16</m:mtext><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>16</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"16"x rSup { size 8{"16"} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170095765330">4. If x = 3, determine:</para>
+      <para id="id1170098043743">4.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 rSup { size 8{x} } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170096132903">4.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{x} }  {"27"} } {}</m:annotation></m:semantics></m:math>   [2] <emphasis effect="bold">[11]</emphasis></para>
+      <para id="id1170094798698">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Tutorial </emphasis>
+      </para>
+      <table id="id1170096047409" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">I demonstrate knowledge and understanding of:</entry>
+              <entry>Learning outcomes</entry>
+              <entry/>
+              <entry>0000</entry>
+              <entry>000</entry>
+              <entry>00</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry>natural numbers (<emphasis effect="bold">N</emphasis>) and whole numbers (<emphasis effect="bold">N</emphasis><emphasis effect="bold">0</emphasis>)</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry>the identification of the different types of numbers;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry>compound numbers;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4.</entry>
+              <entry>divisibility rules;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry>the multiples of a number;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6.</entry>
+              <entry>the factors of a number;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7.</entry>
+              <entry>prime numbers;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8.</entry>
+              <entry>prime factors;</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry>expressing a number as the product of its prime factors;</entry>
+              <entry>1.2.6; 1.2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.</entry>
+              <entry>expressing prime factors in exponent notation;</entry>
+              <entry>1.2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11.</entry>
+              <entry>even and odd numbers;</entry>
+              <entry>1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12.</entry>
+              <entry>square roots of a number;</entry>
+              <entry>1.2.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13.</entry>
+              <entry>cube roots of a number;</entry>
+              <entry>1.2.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14.</entry>
+              <entry>the smallest common factor (LCM);</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15.</entry>
+              <entry>the biggest common divider (BCD).</entry>
+              <entry>1.2.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1170096274460" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>The learner’s …</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>work is…</entry>
+              <entry>Not done..</entry>
+              <entry>Partially done.</entry>
+              <entry>Mostly complete.</entry>
+              <entry>Complete.</entry>
+            </row>
+            <row>
+              <entry>layout of the work is…</entry>
+              <entry>Not understandable.</entry>
+              <entry>Difficult to follow.</entry>
+              <entry>Sometimes easy to follow.</entry>
+              <entry>Easy to follow.</entry>
+            </row>
+            <row>
+              <entry>accuracy of calculations…</entry>
+              <entry>Are mathematically incorrect.</entry>
+              <entry>Contain major errors.</entry>
+              <entry>Contain minor errors.</entry>
+              <entry>Are correct.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1170097262721" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c6">My BEST marks:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170100866801">Parent signature:   <emphasis effect="italics">Date</emphasis>:  </para>
+      <para id="id1170094646511">Test 1: (Number Systems)</para>
+      <para id="id1170095633340">Total: 30</para>
+      <para id="id8864590">1. Tabulate the following:</para>
+      <para id="id1170095843717">1.1 All the prime numbers between 20 and 30. [2]</para>
+      <para id="id1170094538716"/>
+      <para id="id1170095843154">1.2 All the factors of 12. [2]</para>
+      <para id="id1170094516864"/>
+      <para id="id1170094595455">1.3 All factors of 12 which are compound numbers  [2] <emphasis effect="bold">[6]</emphasis></para>
+      <para id="id1170094541081"/>
+      <para id="id1170094516319">2. Determine the smallest natural number for * so that the following number is divisible by 3. (Give a reason for your answer)</para>
+      <para id="id1170094540817"> 1213156*3 [2]</para>
+      <para id="id1170094503085"/>
+      <para id="id1170095887434">3. Determine the following without using your calculator.</para>
+      <para id="id1170094772098">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>36</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mtext>64</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"36"`+`"64"} } {}</m:annotation></m:semantics></m:math>   [2] </para>
+      <para id="id1170094642331">3.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{9} } } } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170095860561">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>2</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2 {  { size 8{7} }  over  { size 8{9} } } } } {}</m:annotation></m:semantics></m:math>   [3] </para>
+      <para id="id1170099195889">3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>0,04</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"0,04"} } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170094540140">3.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mtext>100</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext> 36</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"`-`" 36"} } {}</m:annotation></m:semantics></m:math>  [2] </para>
+      <para id="id1170093920199">3.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>27</m:mtext></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {8 times "27"} } {}</m:annotation></m:semantics></m:math>   [2]</para>
+      <para id="id1170094540829">3.7 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  sqrt {9}  \)  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>   [2] </para>
+      <para id="id1170094621569">3.8 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mtext>64</m:mtext><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"64"` - `1} } {}</m:annotation></m:semantics></m:math>   [2] <emphasis effect="bold">[17]</emphasis></para>
+      <para id="id1170094516163">4. Determine 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>1 728</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"1 728"} } {}</m:annotation></m:semantics></m:math> using prime factors, without using a calculator.</para>
+      <para id="id1170094642430"/>
+      <para id="id1170094642434"/>
+      <para id="id1170095622490"/>
+      <para id="id1170095622869"/>
+      <para id="id1170095622873">  [5]</para>
+      <para id="id1170094668525">5. Bonus question</para>
+      <para id="id1170101944278">If (n) means n<sup>n</sup> what is the value of ((2)) ? [2]</para>
+      <para id="id1170095622887"/>
+      <para id="id1170094668558"/>
+      <para id="id1170095622444"/>
+      <para id="id1170095622449"/>
+      <para id="id1170093923424">Enrichment Exercise for the quick learner</para>
+      <para id="id1170093923385">(Learning unit<emphasis effect="bold"/>1)</para>
+      <para id="id1170094668606">Each question has five possible answers. Only one answer is correct. Place a cross (X) over the letter that indicates the correct answer.</para>
+      <para id="id1170093923486">1. If n and p are both odd, which of the following will be even?</para>
+      <para id="id1170093923447">a) <emphasis effect="italics">np</emphasis>  b) <emphasis effect="italics">n</emphasis>²<emphasis effect="italics">p</emphasis> + 2 c) <emphasis effect="italics">n</emphasis>+<emphasis effect="italics">p</emphasis>+1 d) 2<emphasis effect="italics">n</emphasis>+3<emphasis effect="italics">p</emphasis>+5 e) 2<emphasis effect="italics">n</emphasis>+<emphasis effect="italics">p</emphasis></para>
+      <para id="id1170093923523">2. R 120 is divided amongst three men in the  ratio 3 : 4: 9. The one with the smallest share will receive ...</para>
+      <para id="id1170094502326">a) R16 b) R20 c) R22,50 d) R24,50 e) R40</para>
+      <para id="id1170094500267">3. How many triangles are there in the figure?</para>
+      <figure id="id1170094500352">
+        <media id="id1170094500352_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 113.png" id="id1170094500352__onlineimage" height="219" width="384"/>
+        </media>
+      </figure>
+      <para id="id1170093923328">a) 8  b) 12 c) 14 d) 16 e) 20</para>
+      <para id="id1170094595257">4. A decagon has 2 interior angles of 120° each. If all the remaining angles are of the same size, each angle will be equal to ...</para>
+      <para id="id1170095854974">a) 15° b) 30° c) 120° d) 150° e) 165°</para>
+      <para id="id1170094595449">5. The last digit of the number 3<sup>1993</sup> is ....</para>
+      <para id="id1170093923623">a) 1  b) 3 c) 6 d) 7 e) 9</para>
+      <para id="id1170095623041">6. The figure below has 5 squares. If AB = 6, the area of the figure is...</para>
+      <para id="id1170094540038">
+        <figure id="id1170095622390">
+          <media id="id1170095622390_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 114.png" id="id1170095622390__onlineimage" height="206" width="235"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170095636077">a) 12  b) 20 c) 24 d) 36 e) impossible</para>
+    </section>
+    <section id="id1170094798683">
+      <title>Assessment</title>
+      <table id="id1170095842269" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1.1 describes and illustrates the historical and cultural development of numbers;</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, classifies and represents the following numbers in order to describe and compare them:1.2.3 numbers written in exponent form; including squares and cubes of natural numbers and their square roots and cube roots;1.2.6 multiples and factors;1.2.7 irrational numbers in the context of measurement (e.g. square and cube roots on non-perfect squares and cubes);</entry>
+            </row>
+            <row>
+              <entry>1.6 estimates and calculates by selecting suitable steps for solving problems that involve the following:1.6.2 multiple steps with rational numbers (including division with fractions and decimals);1.6.3 exponents.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1170099661395">
+      <title/>
+      <para id="para-id1170099661395">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170094620878">
+      <title>Memorandum</title>
+      <section id="id1170094500317">
+        <title>CLASS ASSIGNMENT 2</title>
+        <para id="id1170094500333">1.1  48 = 2<sup>4</sup> × 3;   60 = 2² × 3 × 5;   450 = 2 x 3² x 5²;</para>
+        <para id="id1170094500506"><emphasis effect="italics">P</emphasis>48 = {2, 3};  <emphasis effect="italics">P</emphasis>60 = {2, 3, 5};  <emphasis effect="italics">P</emphasis>450 = {2, 3, 5};</para>
+        <para id="id1170094595296">2.1 i) <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> = (2<sup>10</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1170094595662">     = 2<sup>5</sup></para>
+        <para id="id1170094595742">     = 32</para>
+        <para id="id1170094595766"> ii) <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> = (2³ x 5³)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1170095622504">      = 2 x 5</para>
+        <para id="id1170094500295">      = 10</para>
+        <para id="id8762344">2.2 a) 36     </para>
+        <para id="id1170095877787">b) 192</para>
+        <para id="id1170095877794"> c)  1     </para>
+        <para id="id1170094685791">d)  1</para>
+        <para id="id1170095847511"> e)  2     </para>
+        <para id="id1170095847757">f)  17</para>
+        <para id="id1170095847765"> g) 63     </para>
+        <para id="id1170101944131">h)  9</para>
+        <para id="id1170101918025"> i) 10     </para>
+        <para id="id1170094516880">j)  4</para>
+        <para id="id1170094622130"> k) 27     </para>
+        <para id="id1170094621883">l) 8 <emphasis effect="italics">x</emphasis><sup>6</sup></para>
+      </section>
+      <section id="id1170094622196">
+        <title>HOMEWORK ASSIGNMENT 2</title>
+        <para id="id1170094622203">1.1 <!--Sorry, this media type is not supported.--> = (2<sup>12</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1170094621518">   = 2<sup>4</sup></para>
+        <para id="id1170095846134">   = 16</para>
+        <para id="id1170094539960">1.2 <!--Sorry, this media type is not supported.--> = (2<sup>4</sup> x 3<sup>4</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1170094620908">   = 2 x 3</para>
+        <para id="id1170094540780">   = 6</para>
+        <para id="id1170094540640">2.1 <!--Sorry, this media type is not supported.--> = 3² = 9</para>
+        <para id="id1170094503310">2.2 5a²b<sup>5</sup></para>
+        <para id="id1170094621982">2.3 <!--Sorry, this media type is not supported.--> = <!--Sorry, this media type is not supported.--> x 3 = <!--Sorry, this media type is not supported.--></para>
+        <para id="id1170094516619">     = 1,2</para>
+        <para id="id1170095772285">2.4: 4 + 64 = 68</para>
+        <list id="id1170095772300" list-type="bulleted">
+          <item>:2(8) = 16</item>
+          <item>:13</item>
+        </list>
+        <para id="id1170095772316">2.7 (<!--Sorry, this media type is not supported.-->)<sup>2</sup> = 54</para>
+        <para id="id1170095636012">2.8 <!--Sorry, this media type is not supported.--> = 36</para>
+        <list id="id1170095846231" list-type="bulleted">
+          <item>:2(9) = 18</item>
+          <item>:9 - 27 = -18</item>
+        </list>
+      </section>
+      <section id="id1170095843213">
+        <title>CLASS ASSIGNMENT 3</title>
+        <para id="id1170095843219">21. <emphasis effect="italics">LCM</emphasis>: Lowest common multiple</para>
+        <para id="id1170094537108"><emphasis effect="italics">LCM</emphasis> of 2, 6, 12 : </para>
+        <para id="id1170094642482">24 <emphasis effect="italics">HCF</emphasis>: Highest common factor</para>
+        <para id="id1170095911917"><emphasis effect="italics">HCF</emphasis> of 24 and 48 :</para>
+        <para id="id1170095911934">2. 38 = 2 x 19</para>
+        <para id="id1170095911957"> 57 = 3 x 19</para>
+        <para id="id1170095911978"> 95 = 5 x 19</para>
+        <para id="id1170095911999"><emphasis effect="italics">HCF</emphasis> = 19</para>
+        <para id="id1170095622593"><emphasis effect="italics">LCM</emphasis> = 19 x 2 x 3 x 5</para>
+        <para id="id1170095622640">  = 570</para>
+        <para id="id1170095622649">TUTORIAL 1</para>
+        <para id="id1170095622653">1.1 <!--Sorry, this media type is not supported.--> = 8</para>
+        <para id="id1170095622697">1.2 <!--Sorry, this media type is not supported.--></para>
+        <list id="id1170095622731" list-type="bulleted">
+          <item>2³ . 3<sup>7,5</sup></item>
+          <item>:3(3 + 4) = 21</item>
+          <item>:81</item>
+          <item>:16</item>
+        </list>
+        <para id="id1170095622775">1.7 :125</para>
+        <para id="id1170095622782">2.1 :3 + 2 + 4 = 9  </para>
+        <para id="id1170095622803">9 ÷ 3 = 3 Yes!</para>
+        <para id="id1170095622818">2.2: 324 = 2² x 3<sup>4</sup></para>
+        <para id="id1170095622845">2.3: <!--Sorry, this media type is not supported.--> = (2² x 3<sup>4</sup>)<!--Sorry, this media type is not supported.--></para>
+        <para id="id1170094595869">  = 2 x 3²</para>
+        <para id="id1170094595894">  = 18</para>
+        <para id="id1170094595906">2.4: Yes! 18 x 18 = 324 /18² = 324</para>
+        <list id="id1170094595937" list-type="bulleted">
+          <item>:9</item>
+          <item>:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {2} } } {}</m:annotation></m:semantics></m:math> = 3</item>
+        </list>
+        <para id="id1170094596007">3.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {9+"16"} } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>25</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"25"} } {}</m:annotation></m:semantics></m:math> = 5</para>
+        <para id="id1170094596130">3.4: 4
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x rSup { size 8{8} } } {}</m:annotation></m:semantics></m:math></para>
+        <list id="id1170094596191" list-type="bulleted">
+          <item>:4<sup>3 </sup>= 64</item>
+          <item>:3</item>
+        </list>
+      </section>
+      <section id="id1170094596220">
+        <title>ENRICHMENT EXERCISE</title>
+        <para id="id1170094596226">1. d</para>
+        <para id="id1170094596233">2. c</para>
+        <para id="id1170094596239">3. d</para>
+        <para id="id1170094596246">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>180</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"180" \( "10" - 2 \) }  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 144º (one angle) (1 440 – 240) ÷ 8 = 150 (<emphasis effect="italics">d</emphasis>)</para>
+        <para id="id1170095634852">5. b 3<sup>1992</sup> ends on 1</para>
+        <para id="id1170095634872">6. d <emphasis effect="italics">AB</emphasis> = 6</para>
+        <para id="id1170095634895">  (2<emphasis effect="italics">x</emphasis>)<sup>2</sup> + <emphasis effect="italics">x</emphasis><sup> 2</sup> = 36</para>
+        <para id="id1170095634941">  4<emphasis effect="italics"> x</emphasis><sup> 2</sup> + <emphasis effect="italics">x</emphasis><sup> 2</sup> = 36</para>
+        <para id="id1170095634983">   5<emphasis effect="italics"> x</emphasis><sup> 2</sup> = 36</para>
+        <para id="id1170095635014">TEST 1</para>
+        <list id="id1170095635018" list-type="bulleted">
+          <item>:23, 29</item>
+          <item>:1, 2, 3, 6, 12</item>
+          <item>:4, 6, 12</item>
+        </list>
+        <para id="id1170095635051">2. :* 2 1 + 2 + 1 + 3 + 1 + 5 + 6 + 3 = 22</para>
+        <para id="id1170095635097">3.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>100</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"100"} } {}</m:annotation></m:semantics></m:math> = 10</para>
+        <para id="id1170095635159">3.2 2<sup>3</sup> = 8</para>
+        <para id="id1170095635181">3.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mtext>25</m:mtext><m:mn>9</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {"25"}  over  {9} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 1
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1170095635348">3.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mn>4</m:mn><m:mtext>100</m:mtext></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {4}  over  {"100"} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 0,2 / 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1170095635518">3.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>64</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"64"} } {}</m:annotation></m:semantics></m:math> = 8</para>
+        <list id="id1170095635580" list-type="bulleted">
+          <item>:2 x 3 = 6</item>
+          <item>:9</item>
+          <item>:4 – 1 = 3</item>
+        </list>
+        <para id="id1170095635621">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:msup><m:mi fontstyle="italic">x3</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {2 rSup { size 8{6} } x3 rSup { size 8{3} } } } {}</m:annotation></m:semantics></m:math> = 2<sup>2</sup> x 3</para>
+        <para id="id1170094813204">   = 4 x 3</para>
+        <para id="id1170094813232">   = 12</para>
+        <para id="id1170094813244">5. (2)  = 2<sup>2</sup> = 4</para>
+        <para id="id1170094813270">(4)  = 4<sup>4</sup> = 256</para>
+      </section>
+    </section>
+  </content>
+</document>

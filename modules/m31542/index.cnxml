@@ -1,0 +1,243 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Classification of triangles</title>
+  <metadata>
+  <md:content-id>m31542</md:content-id><md:title>Classification of triangles</md:title>
+  <md:abstract/>
+  <md:uuid>13b7bc03-e8fa-4399-97f5-d0a9661fcb83</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15856776">
+      <title>MATHEMATICS</title>
+      <para id="para-id15856776">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6883611">
+      <title>Grade 8</title>
+      <para id="para-id6883611">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13891135">
+      <title>INTEGERS, EQUATIONS AND GEOMETRY</title>
+      <para id="para-id13891135">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8906295">
+      <title>Module 10 </title>
+      <para id="para-id8906295">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5034661">
+      <title>CLASSIFICATION OF TRIANGLES</title>
+      <para id="id13576982">CLASS ASSIGNMENT 1</para>
+      <para id="id3508129">2. Classify the following triangles according to their angles (without the use of a protractor)</para>
+      <figure id="id9202587">
+        <media id="id9202587_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 143.png" id="id9202587__onlineimage" height="368" width="633"/>
+        </media>
+      </figure>
+      <para id="id7480014">4. Classify the following triangles according to their sides.</para>
+      <para id="id11683842">
+        <figure id="id10299433">
+          <media id="id10299433_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 144.png" id="id10299433__onlineimage" height="389" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id8285864"> CLASS ASSIGNMENT 3</para>
+      <para id="id4725668">Try and complete the theorems and explain the theorem on the basis of your own example (with the help of a sketch)</para>
+      <para id="id3190473">1.1 Theorem 1: </para>
+      <para id="id4186593">The sum of the angles on a straight line  </para>
+      <para id="id10815495">Example:</para>
+      <para id="id13716305">1.2 Theorem 2:</para>
+      <para id="id15714474">Example:</para>
+      <para id="id5982198">1.3 Theorem 3:</para>
+      <para id="id3916306">The sum of the interior angles of any triangle is  </para>
+      <para id="id5420270">Example: to prove the theorem, carry out the following instructions:</para>
+      <para id="id12475674">b) Mark the angles of the triangle with the letters A, B and C.</para>
+      <para id="id7299513">c) Tear off the angles of the triangle.</para>
+      <para id="id10774141">d) Paste the angles of the triangle next to one another on the line below so that the vertices face the point on the line.</para>
+      <figure id="id12174588">
+        <media id="id12174588_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 89.png" id="id12174588__onlineimage" height="54" width="586"/>
+        </media>
+      </figure>
+      <para id="id7501006">Complete the following equation: <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {A}}} {}</m:annotation></m:semantics></m:math></emphasis> + <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {B}}} {}</m:annotation></m:semantics></m:math></emphasis> + <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {C}}} {}</m:annotation></m:semantics></m:math></emphasis> = ………°</para>
+      <para id="id11885929">(Note how each angle is written.)</para>
+      <para id="id11460148">1.4 Theorem 4:</para>
+      <para id="id11603979">1.4.1 Before we look at theorem 4, it is important for you to understand the following terms. Explain the following terms with the aid of sketches:</para>
+      <list id="id8800290" list-type="bulleted">
+        <item>exterior angle of a triangle</item>
+      </list>
+      <para id="id5355148"/>
+      <para id="id6999130"/>
+      <para id="id2595831"/>
+      <list id="id16212130" list-type="bulleted">
+        <item>interior angle of a triangle</item>
+      </list>
+      <para id="id6833994"/>
+      <para id="id12496013"/>
+      <para id="id7274439"/>
+      <para id="id5611911">1.4.2 Complete:</para>
+      <para id="id15811940">The exterior angle of a triangle is  </para>
+      <para id="id11468473"/>
+      <para id="id14462554">Example: (Use degrees in your sketch)</para>
+      <para id="id15829359"/>
+      <list id="id14191759" list-type="bulleted">
+        <item>The above four theorems will serve as reasons when you calculate the sizes of unknown angles. </item>
+        <item>When calculating the size of any angle, you must always give a reason for your explanation.</item>
+      </list>
+      <para id="id6954711">2. Calculate the sizes of the unknown angles and provide reasons.(Your teacher will help you with the more difficult examples.)</para>
+      <figure id="id13953427">
+        <media id="id13953427_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 145.png" id="id13953427__onlineimage" height="200" width="634"/>
+        </media>
+      </figure>
+      <figure id="id11638329">
+        <media id="id11638329_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 146.png" id="id11638329__onlineimage" height="418" width="633"/>
+        </media>
+      </figure>
+      <para id="id6597491"/>
+      <para id="id7683259"> HOMEWORK ASSIGNMENTS 2 AND 3</para>
+      <list id="id13258455" list-type="enumerated" number-style="arabic">
+        <item>Complete each of the following and give reasons for the following theorems:</item>
+      </list>
+      <figure id="id8010295">
+        <media id="id8010295_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 147.png" id="id8010295__onlineimage" height="408" width="633"/>
+        </media>
+      </figure>
+      <para id="id6630810">
+        <figure id="id9327606">
+          <media id="id9327606_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 150.png" id="id9327606__onlineimage" height="472" width="632"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id9612544">
+        <media id="id9612544_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 153.png" id="id9612544__onlineimage" height="196" width="633"/>
+        </media>
+      </figure>
+      <list id="id15076889" list-type="enumerated" number-style="arabic">
+        <item>Calculate the sizes of each of the unknown angles and provide reasons for each.</item>
+      </list>
+      <figure id="id6366436">
+        <media id="id6366436_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 155.png" id="id6366436__onlineimage" height="482" width="634"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id6987010">
+      <title>Memorandum</title>
+      <para id="id10656739">CLASSWORK ASSIGNMENT 1</para>
+      <list id="id3418340" list-type="bulleted">
+        <item>acute-angled </item>
+        <item>right-angled / acute-angled</item>
+        <item>obtuse-angled </item>
+        <item>right-angled</item>
+      </list>
+      <list id="id13384544" list-type="bulleted">
+        <item>equilateral</item>
+        <item>isosceles </item>
+        <item>scalene</item>
+        <item>scalene</item>
+      </list>
+      <para id="id9527902">CLASSWORK ASSIGNMENT 1</para>
+      <list id="id4933104" list-type="bulleted">
+        <item>= 180<sup>0</sup></item>
+        <item>same size</item>
+        <item>180<sup>0</sup></item>
+      </list>
+      <list id="id8140492" list-type="bulleted">
+        <item>Exterior 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id15905888">Interior <!--Sorry, this media type is not supported.--></para>
+      <list id="id8399463" list-type="bulleted">
+        <item>Equal to the sum of the 2 subtended interior angles</item>
+      </list>
+      <para id="id6161542"><emphasis effect="italics">x</emphasis> = 130<sup>0</sup> – 50<sup>0</sup></para>
+      <para id="id5330976">= 80<sup>0</sup></para>
+      <list id="id12853653" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 126<sup>0</sup> (straight line)</item>
+      </list>
+      <para id="id11507753">= 54<sup>0</sup></para>
+      <para id="id14865213">2.2 180<sup>0</sup> – (90<sup>0</sup> + 39<sup>0</sup>) (straight line)</para>
+      <para id="id13949138">= 51<sup>0</sup></para>
+      <para id="id5900629">2.3 <emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – (63<sup>0</sup> + 34<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</para>
+      <para id="id10669842">= 83<sup>0</sup></para>
+      <para id="id5823267"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 83 (straight line)</para>
+      <para id="id7860043">= 97<sup>0</sup>  / ext <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></sup> = sum of opp</para>
+      <para id="id11876780">  2 int. <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup></para>
+      <para id="id7427258">2.4 3<emphasis effect="italics">a</emphasis> + 75 = 180<sup>0</sup> (straight line)</para>
+      <para id="id8724308">3<emphasis effect="italics">a</emphasis> = 105<sup>0</sup></para>
+      <para id="id12408496"><emphasis effect="italics">a</emphasis> = 35<sup>0</sup></para>
+      <list id="id11454508" list-type="bulleted">
+        <item><emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – 105<sup>0</sup> (straight line)</item>
+      </list>
+      <para id="id11507326">= 75<sup>0</sup></para>
+      <para id="id7103834"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – (65<sup>0</sup> + 75<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</para>
+      <para id="id10055304">= 40<sup>0</sup></para>
+      <list id="id13718517" list-type="bulleted">
+        <item>2<emphasis effect="italics">a</emphasis> – 10<sup>0</sup> = 30<sup>0</sup> - <emphasis effect="italics">a</emphasis> (vert. opp <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup>)</item>
+      </list>
+      <para id="id13170901">3<emphasis effect="italics">a</emphasis> = 40</para>
+      <para id="id5401187"><emphasis effect="italics">a</emphasis> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>40</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id11370134"><emphasis effect="italics">a</emphasis> = 13,3<sup>0</sup></para>
+      <para id="id11913331">HOMEWORK ASSIGNMENT 1 AND 2</para>
+      <list id="id9923538" list-type="bulleted">
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 180<sup>0</sup> (str. line)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 180<sup>0</sup> (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (ext <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></sup> of = sum of 2 opp int. <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup>)</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {2}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (isc )</item>
+        <item><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {3}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (isc ); 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {1}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mover><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mover accent="true"><m:mrow/><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle></m:mover><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {4}  cSup { size 8{ widehat } } } {}</m:annotation></m:semantics></m:math> (vert opp <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup>)</item>
+      </list>
+      <para id="id10687992">2.1 p = 89<sup>0</sup> + 20<sup>0</sup> (vert opp <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup>)</para>
+      <para id="id9977334">  = 109<sup>0</sup></para>
+      <list id="id9675323" list-type="bulleted">
+        <item>2<emphasis effect="italics">x </emphasis>+ 4<emphasis effect="italics">x</emphasis> + 3<emphasis effect="italics">x</emphasis> = 180<sup>0</sup> (straight line)</item>
+      </list>
+      <para id="id5243592">9<emphasis effect="italics">x</emphasis> = 180<sup>0</sup></para>
+      <para id="id7497228"><emphasis effect="italics">x</emphasis> = 20<sup>0</sup></para>
+      <list id="id6894161" list-type="bulleted">
+        <item><emphasis effect="italics">b</emphasis> = 180<sup>0</sup> – (115<sup>0</sup> + 30<sup>0</sup>) (straight line)</item>
+      </list>
+      <para id="id16456953">= 35<sup>0</sup></para>
+      <para id="id12884961"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – (115<sup>0</sup> + 35<sup>0</sup>) (straight line)</para>
+      <para id="id14531210">= 30<sup>0</sup></para>
+      <list id="id6453111" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis> + <emphasis effect="italics">a</emphasis> + 140<sup>0</sup> = 180<sup>0</sup> (straight line)</item>
+      </list>
+      <para id="id6948805">2<emphasis effect="italics">a</emphasis> = 40<sup>0</sup></para>
+      <para id="id6819114"><emphasis effect="italics">a</emphasis> = 20<sup>0</sup></para>
+      <para id="id8206119">2.5 <emphasis effect="italics">x</emphasis> + 10<sup>0</sup> + 3<emphasis effect="italics"> x</emphasis> – 50<sup>0</sup> = 2<emphasis effect="italics"> x</emphasis> + 36<sup>0</sup> (ext <sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∠</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠} {}</m:annotation></m:semantics></m:math></sup><sup/>of )</para>
+      <para id="id9939460"><emphasis effect="italics">x</emphasis> + 3<emphasis effect="italics"> x</emphasis> – 2<emphasis effect="italics"> x</emphasis> = 36<sup>0</sup> + 50<sup>0</sup> – 10<sup>0</sup></para>
+      <para id="id10996215">2<emphasis effect="italics"> x</emphasis> = 76<sup>0</sup></para>
+      <para id="id10880550"><emphasis effect="italics">x</emphasis> = 38<sup>0</sup></para>
+      <para id="id4416762">2.6 <emphasis effect="italics">p</emphasis> = r = (180<sup>0</sup> – 110<sup>0</sup>) (straight line)</para>
+      <para id="id6730195">  = 70<sup>0</sup> (<emphasis effect="italics">p</emphasis> = <emphasis effect="italics">r</emphasis>, isc )</para>
+      <para id="id11620482"><emphasis effect="italics">a</emphasis> = 180<sup>0</sup> – 140<sup>0</sup>) (3<sup><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>∠</m:mi><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∠s} {}</m:annotation></m:semantics></m:math></sup> = 180<sup>0</sup>)</para>
+      <para id="id14875102">  = 40<sup>0</sup></para>
+    </section>
+  </content>
+</document>

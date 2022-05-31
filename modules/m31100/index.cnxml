@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Addition and subtraction in Algebra</title>
+  <metadata>
+  <md:content-id>m31100</md:content-id><md:title>Addition and subtraction in Algebra</md:title>
+  <md:abstract/>
+  <md:uuid>178103fb-030c-4516-91fd-71511443bae7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15663840">
+      <title>MATHEMATICS</title>
+      <para id="para-id15663840">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16588027">
+      <title>Grade 8 </title>
+      <para id="para-id16588027">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13452650">
+      <title>THE NUMBER SYSTEM</title>
+      <para id="para-id13452650">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12151452">
+      <title>(Natural and whole numbers)</title>
+      <para id="para-id12151452">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12424009">
+      <title>Module 4</title>
+      <para id="para-id12424009">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9922195">
+      <title>ADDITION AND SUBTRACTION IN ALGEBRA</title>
+      <para id="id12071923">CLASS ASSIGNMENT<emphasis effect="italics"/>1</para>
+      <list id="id15625778" list-type="bulleted">
+        <item>
+          <emphasis effect="bold">Discover more and more about addition and subtraction in ALGEBRA</emphasis>
+          <emphasis effect="bold"/>
+          <emphasis effect="bold">….</emphasis>
+        </item>
+      </list>
+      <list id="id16481839" list-type="bulleted">
+        <item>When we do addition and subtraction in Algebra, we can only add together or subtract like terms (terms of the same type) from one another.</item>
+        <item>e.g. 3<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">a</emphasis> = 8<emphasis effect="italics">a</emphasis> (<emphasis effect="italics">a</emphasis> is the same for both terms)</item>
+        <item>e.g. 3<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">a</emphasis>² (cannot be added together, because one term is <emphasis effect="italics">a</emphasis> and the other<emphasis effect="bold"/><emphasis effect="italics">a</emphasis><emphasis effect="bold">²</emphasis> - not of the same type)</item>
+        <item>remember: -8(+5) means: -8 x (+5) = -40(two signs must not be placed next to one another; multiply the two signs by one another)</item>
+      </list>
+      <para id="id14399216">1.<emphasis effect="bold"/>Can you still do the following with integers?</para>
+      <para id="id12977596">1.1: -8 - 12 + 8   </para>
+      <para id="id16264254">1.2: 7 - (+8) - (-6)  </para>
+      <para id="id3825688">1.3: 15 - (-9) + (+7)  </para>
+      <para id="id14197402">1.4: 2(-6) - 5(-6)  </para>
+      <para id="id13418895">1.5: 50 - 70 + 15  </para>
+      <para id="id11347880">2. WOW! Look at this! Quite easy….</para>
+      <para id="id14620547">2.1 2<emphasis effect="italics">a</emphasis> + 2<emphasis effect="italics">a</emphasis> =   (yes, they are alike; I can add)</para>
+      <para id="id15672192"/>
+      <para id="id9539115">2.2 3<emphasis effect="italics">a</emphasis> - 6<emphasis effect="italics">y</emphasis> + 7<emphasis effect="italics">a</emphasis> + 15<emphasis effect="italics">y</emphasis> =  (look for like terms)</para>
+      <para id="id15386128"> 3<emphasis effect="italics">a</emphasis> + 7<emphasis effect="italics">a</emphasis> =  </para>
+      <para id="id15877460"> -6<emphasis effect="italics">y</emphasis> + 15<emphasis effect="italics">y</emphasis> =   </para>
+      <para id="id4322728"> (now write the answer alongside the question)</para>
+      <para id="id9406972">2.3 Add the following expressions together:</para>
+      <para id="id10345870">2.3.1:  6<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">b</emphasis> - 9<emphasis effect="italics">c</emphasis> ; -7<emphasis effect="italics">a</emphasis> + 15<emphasis effect="italics">b</emphasis> - 29<emphasis effect="italics">c</emphasis></para>
+      <para id="id13765638"/>
+      <para id="id9718896"/>
+      <para id="id5175506"/>
+      <para id="id15675144">2.3.2:  -9<emphasis effect="italics">a</emphasis>² - 16<emphasis effect="italics">a</emphasis> + 17<emphasis effect="italics">b</emphasis> ; -17<emphasis effect="italics">a</emphasis>² -40 ; -29<emphasis effect="italics">b</emphasis> + 30</para>
+      <para id="id16257439"/>
+      <para id="id10122622"/>
+      <para id="id10008083"/>
+      <para id="id11676407">3. How about subtracting? Look at the following example:Subtract 6 from 15 . How would you write this? 15 - (+6) = 15 - 6 = 9</para>
+      <para id="id15228538">Explanation: (-) x (+) = (-) THEREFORE: 15 - 6 </para>
+      <para id="id8176264">Look at the following: Subtract -6<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis> from 16<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis></para>
+      <para id="id13805477">It will look like this: 16<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> - (-6<emphasis effect="italics">a</emphasis> + 5<emphasis effect="italics">b</emphasis>)</para>
+      <para id="id11869449">  = 16<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> + 6<emphasis effect="italics">a</emphasis> - 5<emphasis effect="italics">b</emphasis> (multiply (-) within the brackets)</para>
+      <para id="id13818913">  = 16<emphasis effect="italics">a</emphasis> + 6<emphasis effect="italics">a</emphasis> - 3<emphasis effect="italics">b</emphasis> - 5<emphasis effect="italics">b</emphasis></para>
+      <para id="id15368258">  = 22<emphasis effect="italics">a</emphasis> - 8<emphasis effect="italics">b</emphasis></para>
+      <list id="id15034019" list-type="bulleted">
+        <item>Important: Begin by deciding which expression should be written first!</item>
+      </list>
+      <para id="id14648816">3.1 Calculate each of the following:</para>
+      <para id="id12836188">3.1.1 Subtract the second from the first: -7<emphasis effect="italics">a</emphasis> + 3 ; 6<emphasis effect="italics">a</emphasis> - 9</para>
+      <para id="id13341161"/>
+      <para id="id14420306"/>
+      <para id="id10125932"/>
+      <para id="id8565658">3.1.2 Subtract -7<emphasis effect="italics">a</emphasis>² - 5<emphasis effect="italics">a</emphasis> + 8 from 18<emphasis effect="italics">a</emphasis>² - 15</para>
+      <para id="id14813189"/>
+      <para id="id13819250"/>
+      <para id="id6187780"/>
+      <para id="id10987049">3.1.3 Reduce -15
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² - 7
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> + 20 by -6
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>² + 76</para>
+      <para id="id12354432"/>
+      <para id="id10662177"/>
+      <para id="id7997169"/>
+      <para id="id11561600"> HOMEWORK ASSIGNMENT<emphasis effect="italics"/>1</para>
+      <para id="id3651490">1. Add the following expressions together: -3<emphasis effect="italics">p</emphasis>² - 2<emphasis effect="italics">p</emphasis> - 5 <emphasis effect="bold">;</emphasis> 6<emphasis effect="italics">p</emphasis>² + 8 <emphasis effect="bold">;</emphasis> -15<emphasis effect="italics">p</emphasis> - 28</para>
+      <para id="id12541119"/>
+      <para id="id9780374"/>
+      <para id="id9707547"/>
+      <para id="id3963418">2. Subtract -5<emphasis effect="italics">p</emphasis>² - 3<emphasis effect="italics">p</emphasis> from 8 - 7<emphasis effect="italics">a</emphasis>²</para>
+      <para id="id14086897"/>
+      <para id="id14537324"/>
+      <para id="id13427288"/>
+      <para id="id8902896">3. Subtract 6<emphasis effect="italics">a</emphasis> - 8<emphasis effect="italics">y</emphasis> from 1</para>
+      <para id="id13421169"/>
+      <para id="id12293506"/>
+      <para id="id11812135"/>
+      <para id="id10640765">4. 3<emphasis effect="italics">a</emphasis><sup>3</sup> + 6<emphasis effect="italics">a</emphasis> - 7<emphasis effect="italics">a</emphasis> - 5 - 2(8<emphasis effect="italics">a</emphasis><sup>3</sup> - 4<emphasis effect="italics">a</emphasis>² + 17<emphasis effect="italics">a</emphasis> + 8) - 15<emphasis effect="italics">a</emphasis></para>
+      <para id="id11280076"/>
+      <para id="id12685078"/>
+      <para id="id5755627"/>
+      <para id="id12424075"/>
+      <para id="id13813580">5. Increase 6<emphasis effect="italics">p</emphasis> + 15<emphasis effect="italics">y</emphasis> - 3<emphasis effect="italics">a</emphasis> b<emphasis effect="italics">y</emphasis> -13<emphasis effect="italics">y</emphasis> - 18<emphasis effect="italics">p</emphasis> + 34<emphasis effect="italics">a</emphasis></para>
+      <para id="id18185382"/>
+      <para id="id15855147"/>
+      <para id="id8495617"/>
+      <para id="id12125574">6. By how much is -8<emphasis effect="italics">a</emphasis>² + 6<emphasis effect="italics">a</emphasis> bigger than 15<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> - 5 ?</para>
+      <para id="id5095307"/>
+      <para id="id12270682"/>
+      <para id="id13622044">7. By how much is 4<emphasis effect="italics">a</emphasis>² - 5<emphasis effect="italics">a</emphasis> + 1 smaller than 16<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> - 7 ?</para>
+      <para id="id9521551"/>
+      <para id="id13971132"/>
+      <para id="id12171390"/>
+      <para id="id12072592"/>
+      <para id="id4184629">8. What must be added to 5<emphasis effect="italics">a</emphasis>² + 3<emphasis effect="italics">a</emphasis> to get -3<emphasis effect="italics">a</emphasis> + 6 ?</para>
+      <para id="id11022642"/>
+      <para id="id11633954">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold">Assessment </emphasis>
+      </para>
+      <table id="id12548246" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessment of myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">by myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessment by Teacher:</entry>
+            </row>
+            <row>
+              <entry>I can…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Critical Outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Identify like terms in an expression; (Lu 2.8.1; 2.8.2)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Critical and creative thinking</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Add like terms together; (Lu 2.8.2; 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Collaborating</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Subtract like terms from each other; (Lu 2.8.2; 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organising en managing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Add and subtract constant values; (Lu 2.8.4)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Processing of information</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Add a range of expressions together; (Lu 2.8.2; 2.8.4; 2.8.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Subtract a range of expressions from each other. (Lu 2.8.2; 2.8.4; 2.8.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Problem solving</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Independence</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id11142856">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id12665119" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Comments by the learner:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan of action:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My marks:</entry>
+            </row>
+            <row>
+              <entry>I am very satisfied with the standard of my work.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I am satisfied with the steady progress I have made.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I have worked hard, but my achievement is not satisfactory.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I did not give my best.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id14566795" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Comments by parents:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Parent signature:   <emphasis effect="italics">Date</emphasis></entry>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id15597980">
+      <title>Memorandum</title>
+      <section id="id18187527">
+        <title>CLASS ASSIGNMENT 1</title>
+        <list id="id9813607" list-type="bulleted">
+          <item>-12</item>
+          <item>5</item>
+          <item>31</item>
+          <item>18</item>
+          <item>–5</item>
+        </list>
+        <list id="id12167633" list-type="bulleted">
+          <item>4a</item>
+          <item>10<emphasis effect="italics">a</emphasis> + 9<emphasis effect="italics"> a</emphasis></item>
+        </list>
+        <list id="id8101292" list-type="bulleted">
+          <item>-<emphasis effect="italics">a</emphasis> + 8<emphasis effect="italics">b</emphasis> – 38<emphasis effect="italics">c</emphasis></item>
+          <item>–26<emphasis effect="italics">a</emphasis><sup> 2</sup> – 16<emphasis effect="italics">a</emphasis> – 12<emphasis effect="italics">b</emphasis> – 10</item>
+        </list>
+        <list id="id7506821" list-type="bulleted">
+          <item>-7<emphasis effect="italics">a</emphasis> + 3 – (6<emphasis effect="italics">a</emphasis> – 9)</item>
+        </list>
+        <para id="id12619411">= -7<emphasis effect="italics">a</emphasis> +3 – 6<emphasis effect="italics">a</emphasis> + 9</para>
+        <para id="id8475362">= -13<emphasis effect="italics">a</emphasis> + 12</para>
+        <list id="id14301412" list-type="bulleted">
+          <item>18<emphasis effect="italics">a</emphasis><sup> 2</sup> – 15 – (-7<emphasis effect="italics">a</emphasis><sup> 2</sup> – 5<emphasis effect="italics">a</emphasis> + 8)</item>
+        </list>
+        <para id="id12365968">= 18<emphasis effect="italics">a</emphasis><sup> 2</sup> – 15 + -7<emphasis effect="italics">a</emphasis><sup> 2</sup> + 5<emphasis effect="italics">a</emphasis> – 8</para>
+        <para id="id15889025">= 25<emphasis effect="italics">a</emphasis><sup> 2</sup> + 5<emphasis effect="italics">a</emphasis> – 23</para>
+        <list id="id10989120" list-type="bulleted">
+          <item>-15<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x </emphasis>+ 20 – (-6<emphasis effect="italics">x</emphasis><sup>2</sup> + 76)</item>
+        </list>
+        <para id="id15154972">= -15<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x</emphasis> + 20 + -6<emphasis effect="italics">x</emphasis><sup>2</sup> – 76</para>
+        <para id="id13542178">= -9<emphasis effect="italics">x</emphasis><sup>2</sup> – 7<emphasis effect="italics">x</emphasis> – 56</para>
+      </section>
+      <section id="id15220025">
+        <title>HOMEWORK ASSIGNMENT 1</title>
+        <para id="id10726747">1. 3<emphasis effect="italics">p</emphasis><sup>2</sup> – 17<emphasis effect="italics">p</emphasis> – 25</para>
+        <para id="id13971575">2. 8 – 7<emphasis effect="italics">a</emphasis><sup>2</sup> – (-5<emphasis effect="italics">p</emphasis><sup>2</sup> – 3<emphasis effect="italics">p</emphasis>)</para>
+        <para id="id14139195"> = 8 – 7<emphasis effect="italics">a</emphasis><sup>2</sup> + 5<emphasis effect="italics">p</emphasis><sup>2</sup> + 3<emphasis effect="italics">p</emphasis>)</para>
+        <para id="id8488980"> -2<emphasis effect="italics">a</emphasis><sup>2</sup> + 3<emphasis effect="italics">p</emphasis> + 8</para>
+        <para id="id6157156">3. 1 – (6<emphasis effect="italics">a</emphasis> – 8<emphasis effect="italics">y</emphasis>) = 1 – 6<emphasis effect="italics">a</emphasis> + 8<emphasis effect="italics">y</emphasis></para>
+        <para id="id4090187">4. 3<emphasis effect="italics">a</emphasis><sup>3</sup> + 6<emphasis effect="italics">a</emphasis> – 7<emphasis effect="italics">a</emphasis> – 5 – 16<emphasis effect="italics">a</emphasis><sup>3</sup> + 8<emphasis effect="italics">a</emphasis><sup>2</sup> – 34<emphasis effect="italics">a</emphasis> – 16 – 15<emphasis effect="italics">a</emphasis></para>
+        <para id="id13335203"> = -13<emphasis effect="italics">a</emphasis><sup>3</sup> + 8<emphasis effect="italics">a</emphasis><sup>2</sup> – 50<emphasis effect="italics">a</emphasis> – 21</para>
+        <para id="id9164686">5. 24<emphasis effect="italics">p</emphasis> + 28<emphasis effect="italics">y</emphasis> – 37<emphasis effect="italics">a</emphasis></para>
+        <para id="id9333615">6. -23<emphasis effect="italics">a</emphasis><sup>2</sup> + 3<emphasis effect="italics">a</emphasis> + 5</para>
+        <para id="id16048016">7. 12<emphasis effect="italics">a</emphasis><sup>2</sup> + 8<emphasis effect="italics">a</emphasis> – 8</para>
+        <para id="id11101923">8. -6<emphasis effect="italics">a</emphasis> + 6 – 5<emphasis effect="italics">a</emphasis><sup>2</sup></para>
+      </section>
+    </section>
+  </content>
+</document>

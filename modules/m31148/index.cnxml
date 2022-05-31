@@ -1,0 +1,427 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Classifying and constructing triangles</title>
+  <metadata>
+  <md:content-id>m31148</md:content-id><md:title>Classifying and constructing triangles</md:title>
+  <md:abstract/>
+  <md:uuid>deb04abe-0888-477f-9ecf-342141eba150</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7439924">
+      <title>MATHEMATICS</title>
+      <para id="para-id7439924">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172672939053">
+      <title>Grade 8</title>
+      <para id="para-id1172672939053">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172673029893">
+      <title>RATIONAL NUMBERS, CIRCLES AND TRIANGLES</title>
+      <para id="para-id1172673029893">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7447340">
+      <title>Module 14</title>
+      <para id="para-id7447340">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172672933063">
+      <title>CLASSIFYING AND CONSTRUCTING TRIANGLES</title>
+      <section id="id1172672967410">
+        <title>ACTIVITY 1</title>
+        <para id="para-id1172672967410">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1172672926157">
+        <title>Classifying triangles, discovering important theorems about triangles and constructing triangles</title>
+        <para id="para-id1172672926157">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1172672924302">
+        <title>[LO 3.1, 3.3, 3.4, 4.2.1]</title>
+        <list id="id1172673030263" list-type="bulleted">
+          <item>By the end of this learning unit, you will be able to do the following: </item>
+        </list>
+        <list id="id1172673813167" list-type="bulleted">
+          <item>understand how important the use of triangles is in everyday situations;</item>
+          <item>explain how to find the unknown sides of a right-angled triangle (Pythagoras);</item>
+          <item>calculate the area of a triangle;</item>
+          <item>enjoy the action in geometry;</item>
+          <item>use mathematical language to convey mathematical ideas, concepts, generalisations and mental processes.</item>
+        </list>
+        <para id="id1172674020478">1. When you classify triangles you can do it according to the angles or according to the sides.</para>
+        <para id="id7546350">1.1 Classification on the basis of the angles of a triangle:Are you able to complete the following?</para>
+        <para id="id1172672907573">a) Acute-angled triangles are triangles with </para>
+        <para id="id2663534">b) Right-angled triangles have </para>
+        <para id="id7439456">c) Obtuse-angled triangles have </para>
+        <para id="id7377261">1.2 Classification on the basis of the sides of the triangle:Are you able to complete the following?</para>
+        <para id="id1172673760045">a) An isosceles triangle has </para>
+        <para id="id6522569">b) An equilateral triangle has </para>
+        <para id="id1172673019373">c) A scalene triangle's </para>
+        <para id="id1172672938928">2. Are you able to complete the following theorems about triangles? Use a sketch to illustrate each of the theorems graphically. </para>
+        <para id="id7387789"><emphasis effect="bold">THEOREM </emphasis>1:</para>
+        <list id="id1912276" list-type="bulleted">
+          <item>The sum of the interior angles of any triangle is.........................</item>
+        </list>
+        <para id="id1172673002605">Sketch: </para>
+        <para id="id1172673015615"/>
+        <para id="id1172672950486"><emphasis effect="bold">THEOREM </emphasis>2:</para>
+        <list id="id6222664" list-type="bulleted">
+          <item>The exterior angle of a triangle is </item>
+        </list>
+        <para id="id7159506"/>
+        <para id="id7377855">Sketch:</para>
+        <para id="id8267309">3. Constructing triangles:</para>
+        <list id="id1172673030159" list-type="bulleted">
+          <item>Equipment: compasses, protractor, pencil and ruler</item>
+        </list>
+        <para id="id1172673015605">Remember this:  </para>
+        <list id="id1172673885449" list-type="bulleted">
+          <item>Begin by drawing a rough sketch of the possible appearance.</item>
+          <item>Begin by drawing the base line.</item>
+        </list>
+        <para id="id6514142">3.1 Construct 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PQR</emphasis> with <emphasis effect="italics">PQ</emphasis> = 7 cm, <emphasis effect="italics">PR</emphasis> = 5 cm and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>P</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {P}}} {}</m:annotation></m:semantics></m:math> = 70°.</para>
+        <para id="id1172672958357">a) <emphasis effect="italics">Sketch:</emphasis></para>
+        <para id="id7453131">b) Measure the following:</para>
+        <para id="id1172673025719">1. <emphasis effect="italics">QR</emphasis> = ........ 2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {R}}} {}</m:annotation></m:semantics></m:math> = ........ 3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {Q}}} {}</m:annotation></m:semantics></m:math> = ........ 4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>P</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>Q</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>R</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {P}}+ { hat  {Q}}+ { hat  {R}}={}} {}</m:annotation></m:semantics></m:math> ........</para>
+        <para id="id7442507">3.2 Construct 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">KLM</emphasis> , an equilateral triangle. <emphasis effect="italics">KM</emphasis> = 40 mm, <emphasis effect="italics">KL</emphasis>=<emphasis effect="italics">LM</emphasis><emphasis effect="italics"/>and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>K</m:mi><m:mo stretchy="false">ˆ</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { hat  {K}}} {}</m:annotation></m:semantics></m:math> = 75°.Indicate the sizes of all the angles in your sketch.</para>
+        <para id="id7376966">Sketch: </para>
+        <para id="id1172673019288"/>
+      </section>
+    </section>
+    <section id="id1172673885760">
+      <title>ACTIVITY 2</title>
+      <para id="para-id1172673885760">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172673107836">
+      <title>Discovering the Pythagorean theorem of Pythagoras and calculating unknown sides with the help of this theorem</title>
+      <para id="para-id1172673107836">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172672959300">
+      <title>[LO 4.2.1, 4.8, 4.9, 4.10]</title>
+      <list id="id7408763" list-type="bulleted">
+        <item>The following could be done in groups.</item>
+      </list>
+      <para id="id6411260">Practical exercise: Making you own tangram.</para>
+      <para id="id7408463">1. Cut out a cardboard square (10 cm x 10 cm).</para>
+      <para id="id1172672976453">2. Draw both diagonals, because they form part of the bases of some figures.</para>
+      <para id="id1172673728425">3. Divide the square in such a way that the complete figure consists of the following:</para>
+      <para id="id1172672967170">3.1 two large equilateral triangles with bases of 10 cm in length;</para>
+      <para id="id7238889">3.2 two smaller equilateral triangles, each with base 5 cm in length;</para>
+      <para id="id1172672913500">3.3 one medium equilateral triangle with adjacent sides 5 cm in length;</para>
+      <para id="id1178200">3.4 one square with diagonals of 5cm;</para>
+      <para id="id1920485">3.5 one parallelogram with opposite sides of 5 cm.</para>
+      <list id="id1172672958785" list-type="bulleted">
+        <item>Make two of these. Cut along all the lines so that you will have two sets of the above shapes.</item>
+      </list>
+      <figure id="id7022286">
+        <media id="id7022286_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 12.jpg" id="id7022286__onlineimage" height="191" width="190"/>
+        </media>
+      </figure>
+      <para id="id7441975"/>
+      <para id="id1921215"/>
+      <para id="id7002382">4. Now trace the largest triangle of your tangram in your workbook as a right-angled triangle.</para>
+      <para id="id1172673780206">5. Arrange the seven pieces to form a square and place this on the hypotenuse of the traced triangle.</para>
+      <para id="id1172673019344">6. Now arrange the two largest triangles to form a square and place this on one of the sides adja­cent to the right angle of the traced triangle.</para>
+      <para id="id7378588">7. Arrange the remaining pieces to form a square and place this on the other adjacent side.</para>
+      <para id="id1172673942182">8. Calculate the area of each square.</para>
+      <para id="id6001269">9. What can you deduce from this exercise? </para>
+      <para id="id1172673003801">10. Deduction: Write out Pythagoras’ theorem in the space below by making use of the triangle that is provided.</para>
+      <para id="id1172673026266">11. Solve x in each of the following triangles:(You may make use of your calculator.)</para>
+      <figure id="id7452798">
+        <media id="id7452798_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 49.png" id="id7452798__onlineimage" height="167" width="171"/>
+        </media>
+      </figure>
+      <figure id="id1172673030506">
+        <media id="id1172673030506_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 50.png" id="id1172673030506__onlineimage" height="179" width="588"/>
+        </media>
+      </figure>
+      <para id="id1172672987515"/>
+      <para id="id1172673018528"><figure id="id1172673016101"><media id="id1172673016101_media" alt=""><image mime-type="image/png" src="../../media/graphics1-b971.png" id="id1172673016101__onlineimage" height="175" width="287"/></media></figure>11.3  </para>
+      <para id="id1172673014700">1.4</para>
+      <figure id="id1172673028945">
+        <media id="id1172673028945_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-e4ce.png" id="id1172673028945__onlineimage" height="172" width="160"/>
+        </media>
+      </figure>
+      <para id="id1172673012545">12. Do the calculations to determine whether the following is a right-angled triangle or not:</para>
+      <para id="id1172672913930">12.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">DEF</emphasis> with <emphasis effect="italics">DE</emphasis> = 8 cm, <emphasis effect="italics">EF</emphasis> = 10 cm, <emphasis effect="italics">DF</emphasis> = 6 cm</para>
+      <para id="id1172672881500"/>
+      <para id="id1172673018765"/>
+      <para id="id1172672957825"/>
+      <para id="id1172673012520"/>
+      <para id="id1172672975922">13. AREA OF TRIANGLES</para>
+      <para id="id1172673031150">13.1 Construct rectangle <emphasis effect="italics">ABCD</emphasis> with <emphasis effect="italics">AB</emphasis> = 45 mm and <emphasis effect="italics">AD</emphasis> = 25 mm on a sheet of paper and cut it out. Draw diagonal <emphasis effect="italics">AC</emphasis>. </para>
+      <para id="id1172672949014">13.2 Calculate the area of rectangle <emphasis effect="italics">ABCD</emphasis>.</para>
+      <para id="id1172672904549"/>
+      <para id="id1172672879777">13.3 Cut out 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>. What is the area of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>?Paste it here.</para>
+      <list id="id1172672913198" list-type="bulleted">
+        <item>Area of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis> = ................. mm²</item>
+      </list>
+      <para id="id1172672897120">13.4 Are you able to develop a formula for determining the area any triangle?</para>
+      <para id="id1172673724485">Write it here:  </para>
+      <para id="id1172672950212">13.5 Calculate the area of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>.</para>
+      <figure id="id1172672932801">
+        <media id="id1172672932801_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-d023.png" id="id1172672932801__onlineimage" height="146" width="125"/>
+        </media>
+      </figure>
+      <para id="id1172672949596">13.6 In the figure <emphasis effect="italics">SQ</emphasis> = 15 cm, <emphasis effect="italics">QR</emphasis> = 7 cm and <emphasis effect="italics">PR</emphasis> = 9 cm.</para>
+      <para id="id1172673012738"><emphasis effect="bold">Important</emphasis>: Provide all necessary information on your sketch. Check to see what you may need to complete the instructions fully.</para>
+      <figure id="id1172673012821">
+        <media id="id1172673012821_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-d77e.png" id="id1172673012821__onlineimage" height="148" width="197"/>
+        </media>
+      </figure>
+      <para id="id1172672987251">(a) Calculate the area of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PSQ</emphasis> (accurate to 2 decimals).</para>
+      <para id="id1172672987445"/>
+      <para id="id1172672987449"/>
+      <para id="id1172672987454">(b) Now calculate the area of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PSR</emphasis>.<emphasis effect="bold">Suggestion</emphasis>: You will first have to calculate the area of another triangle.</para>
+      <para id="id1172672914288"/>
+      <para id="id1172672914292"/>
+      <para id="id1172672914298"/>
+      <para id="id1172672914302"/>
+      <para id="id1172672914306">13.7 Calculate the area of <emphasis effect="italics">ABCD</emphasis>. </para>
+      <figure id="id1172672914322">
+        <media id="id1172672914322_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-cc66.png" id="id1172672914322__onlineimage" height="236" width="199"/>
+        </media>
+      </figure>
+      <para id="id1172672949686"><figure id="id1172672949689"><media id="id1172672949689_media" alt=""><image mime-type="image/png" src="../../media/graphics6-b241.png" id="id1172672949689__onlineimage" height="172" width="255"/></media></figure>14. Calculate the length of the unknown sides of each of the following: </para>
+      <para id="id1172672914354">14.1  </para>
+      <para id="id1172672914361"><figure id="id1172672914364"><media id="id1172672914364_media" alt=""><image mime-type="image/png" src="../../media/graphics7-8be7.png" id="id1172672914364__onlineimage" height="164" width="161"/></media></figure>14.2</para>
+      <para id="id1172672914393">14.3 </para>
+      <para id="id1172672914398"/>
+      <figure id="id1172672949190">
+        <media id="id1172672949190_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 52.png" id="id1172672949190__onlineimage" height="207" width="293"/>
+        </media>
+      </figure>
+      <para id="id1172672949213">15. Playing in a park is a necessary aspect of the development of a child.</para>
+      <list id="id1172672949220" list-type="bulleted">
+        <item>You have been asked to supply slides. The problem that is involved requires calculating the length of the poles that are needed. Make use of the knowledge that you have accumulated to supply a plan to erect the slides.</item>
+      </list>
+      <figure id="id1172672949238">
+        <media id="id1172672949238_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-9a61.png" id="id1172672949238__onlineimage" height="192" width="307"/>
+        </media>
+      </figure>
+      <para id="id1172672994845">The following is required:</para>
+      <para id="id1172672994849">15.1 a sketch</para>
+      <para id="id1172672994856">15.2 a scale, e.g. 1 cm = 1 m</para>
+      <para id="id1172672994863">15.3 Calculations must be completed fully. </para>
+    </section>
+    <section id="id1172672994871">
+      <title>Assessment</title>
+      <table id="id1172672994878" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>Space and Shape (Geometry)The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>3.2 in context that include those that may be used to build awareness of social, cultural and environmental issues, describes and classifies geometric figures and solids in terms of properties, including:</entry>
+            </row>
+            <row>
+              <entry>3.2.1 sides, angles and diagonals and their inter­relationships, with focus on triangles and quadrilaterals (e.g. types of triangles and quadrilaterals).</entry>
+            </row>
+            <row>
+              <entry>LO4 </entry>
+            </row>
+            <row>
+              <entry>MeasurementThe learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>4.2 solves problems involving:</entry>
+            </row>
+            <row>
+              <entry>4.2.1 length;</entry>
+            </row>
+            <row>
+              <entry>4.2.2 perimeter and area of polygonals and circles;</entry>
+            </row>
+            <row>
+              <entry>4.3 solves problems using a range of strategies including:</entry>
+            </row>
+            <row>
+              <entry>4.3.1 estimating;</entry>
+            </row>
+            <row>
+              <entry>4.3.2 calculating to at least two decimal positions;</entry>
+            </row>
+            <row>
+              <entry>4.3.3 using and converting between appropriate SI units;</entry>
+            </row>
+            <row>
+              <entry>4.4 describes the meaning of and uses 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> in calculations involving circles and discusses its historical development in measurement;</entry>
+            </row>
+            <row>
+              <entry>4.5 calculates, by selecting and using appropriate formulae:</entry>
+            </row>
+            <row>
+              <entry>4.5.1 perimeter of polygons and circles;</entry>
+            </row>
+            <row>
+              <entry>4.5.2 area of triangles, rectangles circles and polygons by decomposition into triangles and rectangles;</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1172672846206" list-type="bulleted">
+                  <item>investigates (alone and / or as a member of a group or team) the relationship between the sides of a right-angled triangle to develop the Theorem of Pythagoras;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>4.9 uses the Theorem of Pythagoras to calculate a missing length in a right-angled triangle leaving irrational answers in surd form (√);</entry>
+            </row>
+            <row>
+              <entry>4.10 describes and illustrates ways of measuring in different cultures throughout history (e.g. determining right angles using knotted string leading to the Theorem of Pythagoras).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1172672846256">
+      <title>Memorandum</title>
+      <para id="id1172672846262">ACTIVITY 1</para>
+      <para id="id1172672846267">1.1 a) all 3 Acute-angled</para>
+      <para id="id1172672846276"> b) one 90<sup>o</sup> angled</para>
+      <para id="id1172673014726"> c) one obtuse-angled</para>
+      <para id="id1172673014738">1.2 a) 2 even sides</para>
+      <para id="id1172673014747"> b) 3 even sides</para>
+      <para id="id1172673014755"> c) sides differ in length</para>
+      <para id="id1172673014762">2. The sum of the interior angles of any triangle is 180º</para>
+      <para id="id1172673014780"/>
+      <para id="id1172673014784">ACTIVITY 2</para>
+      <para id="id1172673014788">10. <emphasis effect="italics">r</emphasis><sup>2</sup> = <emphasis effect="italics">p</emphasis><sup>2</sup> + <emphasis effect="italics">q</emphasis><sup>2</sup></para>
+      <list id="id1172673014836" list-type="bulleted">
+        <item><emphasis effect="italics">x</emphasis><sup>2</sup> = 12<sup>2</sup> + 5<sup>2</sup></item>
+      </list>
+      <para id="id1172673014875">= 144 + 25</para>
+      <para id="id1172672949978">= 169</para>
+      <para id="id1172672949987"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis> = 13</para>
+      <list id="id1172672950053" list-type="bulleted">
+        <item>20<sup>2</sup> = 8<sup>2</sup> + <emphasis effect="italics">x</emphasis><sup>2</sup></item>
+      </list>
+      <para id="id1172672950097"><emphasis effect="italics">x</emphasis><sup>2 </sup>= 400 – 64</para>
+      <para id="id1172672828739">= 336</para>
+      <para id="id1172672828748"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 18,3 cm</para>
+      <para id="id1172672828860">11.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mo stretchy="false">∇</m:mo></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nabla } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">ABC</emphasis>: <emphasis effect="italics">x</emphasis><sup>2</sup> = 70<sup>2</sup> – 29<sup>2</sup></para>
+      <para id="id1172672828958">   = 4 900 – 841</para>
+      <para id="id1172672828975">   = 4 059</para>
+      <para id="id1172672828988"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 63,7 mm</para>
+      <para id="id1172672879492">11.4 <emphasis effect="italics">y</emphasis><sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup></para>
+      <para id="id1172672879534">  = 16 + 9</para>
+      <para id="id1172672879549">  = 25</para>
+      <para id="id1172672879561"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">x</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 9,4cm</para>
+      <para id="id1172672879676">12. <emphasis effect="italics">DE</emphasis><sup>2</sup> + <emphasis effect="italics">DF</emphasis><sup>2</sup> = 100 = <emphasis effect="italics">EF</emphasis><sup>2</sup></para>
+      <para id="id1172672814362"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">DEF</emphasis> right angled</para>
+      <para id="id1172672814496"> (Pythagoras)</para>
+      <list id="id1172672814502" list-type="bulleted">
+        <item>½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></item>
+        <item><emphasis effect="italics">BC</emphasis><sup>2</sup> = 13<sup>2</sup> – 5<sup>2</sup></item>
+      </list>
+      <para id="id1172672814579">= 169 – 25</para>
+      <para id="id1172672814594">= 144</para>
+      <para id="id1172672814603"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">BC</emphasis> = 12 cm</para>
+      <para id="id1172672814668">Area <emphasis effect="italics">ABC</emphasis> = ½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></para>
+      <para id="id1172672814717">  = ½ x 12 x 5</para>
+      <para id="id1172672884298">  = 30cm<sup>2</sup></para>
+      <para id="id1172672884317">13.6 (a) <emphasis effect="italics">PS</emphasis><sup>2</sup> = 9<sup>2</sup> – 8<sup>2</sup></para>
+      <para id="id1172672884361">   = 81 – 64</para>
+      <para id="id1172672884378">   = 17</para>
+      <para id="id1172672884392"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">PS</emphasis> = 4,12 cm</para>
+      <para id="id1172672884457"> Area <emphasis effect="italics">PSQ</emphasis> = ½ x <emphasis effect="italics">b</emphasis> x <emphasis effect="italics">h</emphasis></para>
+      <para id="id1172672884506">= ½ x 15 x 4,12</para>
+      <para id="id1172672884536">= 30,9cm<sup>2</sup></para>
+      <para id="id1172672884553">13.6 (<emphasis effect="italics">b</emphasis>) Area <emphasis effect="italics">PSR</emphasis> = ½ x 8 x 4,12</para>
+      <para id="id1172672884604">= 16,4 cm<sup>2</sup></para>
+      <para id="id1172672884620">Area <emphasis effect="italics">PRQ</emphasis> = area <emphasis effect="italics">PSQ</emphasis> – <emphasis effect="italics">PSR</emphasis></para>
+      <para id="id1172672884657">= 30,9 – 16,4</para>
+      <para id="id1172672884671">= 14,5 cm<sup>2</sup></para>
+      <para id="id1172672884688">13.7 <emphasis effect="italics">AC</emphasis><sup>2</sup> = 12<sup>2</sup> + 8<sup>2</sup></para>
+      <para id="id1172672878775">= 208</para>
+      <para id="id1172672878784"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">AC</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 14,4</para>
+      <para id="id1172672878896"><emphasis effect="italics">AD</emphasis><sup>2</sup> = 16<sup>2</sup> – 14,4<sup>2</sup></para>
+      <para id="id1172672878938">  = 256 – 207,36</para>
+      <para id="id1172672878954">  = 48,64</para>
+      <para id="id1172672878966"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">AD</emphasis> = 6,97</para>
+      <para id="id1172672879034"> Area <emphasis effect="italics">ABCD</emphasis> = area <emphasis effect="italics">ABC</emphasis> + area <emphasis effect="italics">ACD</emphasis></para>
+      <para id="id1172672879075">   = (½ x 12 x 8) + (6,97 x 14,4 x ½)</para>
+      <para id="id1172672879126">   = 48 + 50,18</para>
+      <para id="id1172672879141">   = 98,18 square units</para>
+      <list id="id1172672879150" list-type="bulleted">
+        <item><emphasis effect="italics">a</emphasis><sup>2</sup> = 8<sup>2</sup> – 7<sup>2</sup></item>
+      </list>
+      <para id="id1172672879189">= 15</para>
+      <para id="id1172672879199"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">a</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 3,9</para>
+      <para id="id1172672880644"><emphasis effect="italics">b</emphasis><sup>2</sup> = (3,9)<sup>2</sup> + 4<sup>2</sup></para>
+      <para id="id1172672880680">= 15,21 + 16</para>
+      <para id="id1172672880694">= 31,21</para>
+      <para id="id1172672880704"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">b</emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 5,6</para>
+      <list id="id1172672880815" list-type="bulleted">
+        <item><emphasis effect="italics">x</emphasis> = 18 (radius)</item>
+      </list>
+      <para id="id1172672880838"><emphasis effect="italics">y</emphasis><sup>2</sup> = 36<sup>2</sup> – 13<sup>2</sup></para>
+      <para id="id1172672880875">= 1 296 – 169</para>
+      <para id="id1172672880889">= 1 127</para>
+      <para id="id1172672880898"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">y</emphasis> = 33,6</para>
+      <list id="id1172672880964" list-type="bulleted">
+        <item><emphasis effect="italics">UV</emphasis><sup>2</sup> = 12<sup>2</sup> – 7<sup>2</sup></item>
+      </list>
+      <para id="id1172672881005">= 95</para>
+      <para id="id1172672881016"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">UV</emphasis> = 9,8</para>
+      <para id="id1172672881081"><emphasis effect="italics">VS</emphasis><sup>2</sup> = 14<sup>2</sup> + (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 9,8)<sup>2</sup></para>
+      <para id="id1172672881171">  = 196 + 95</para>
+      <para id="id1172672881187">  = 291</para>
+      <para id="id1172672881199"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">VS</emphasis> = 17,1</para>
+      <para id="id1172672881270"><emphasis effect="italics">y</emphasis><sup>2</sup> = (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ approx } {}</m:annotation></m:semantics></m:math> 17,1)<sup>2</sup> + 5<sup>2</sup></para>
+      <para id="id1172672881363">  = 291 + 25</para>
+      <para id="id1172672881379">  = 316</para>
+      <para id="id1172672881391"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>∴</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{∴} {}</m:annotation></m:semantics></m:math><emphasis effect="italics">y</emphasis> = 17,8</para>
+    </section>
+  </content>
+</document>

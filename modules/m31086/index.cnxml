@@ -1,0 +1,627 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Different kinds of numbers</title>
+  <metadata>
+  <md:content-id>m31086</md:content-id><md:title>Different kinds of numbers</md:title>
+  <md:abstract/>
+  <md:uuid>44ad36e2-7416-45dd-9d35-11cd6f02abc4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169445988757">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169445988757">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169448690879">
+      <title>Grade 8 </title>
+      <para id="para-id1169448690879">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169455058390">
+      <title>THE NUMBER SYSTEM</title>
+      <para id="para-id1169455058390">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169449478911">
+      <title>(Natural and whole numbers)</title>
+      <para id="para-id1169449478911">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4602367">
+      <title>Module 1</title>
+      <para id="para-id4602367">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4325756">
+      <title>DIFFERENT KINDS OF NUMBERS </title>
+      <para id="id1169442437080">CLASS ASSIGNMENT<emphasis effect="italics"/>1 </para>
+      <list id="id1169454083539" list-type="bulleted">
+        <item>Discover the number system step by step....</item>
+      </list>
+      <para id="id1169455867063">1. General: Different kinds of numbers</para>
+      <para id="id1169442438844">Provide an example of each of the following numbers:</para>
+      <list id="id8550129" list-type="bulleted">
+        <item>Natural numbers N = {..................................................}</item>
+      </list>
+      <list id="id7176738" list-type="bulleted">
+        <item>Counting numbers N<sub>0</sub> = {..................................................}</item>
+      </list>
+      <list id="id5170532" list-type="bulleted">
+        <item>Integers Z+ = {..................................................}</item>
+      </list>
+      <para id="id6717126"> Z-  = {..................................................}</para>
+      <list id="id1169448259067" list-type="bulleted">
+        <item>Rational numbers Q = {..................................................}</item>
+      </list>
+      <list id="id1169446675781" list-type="bulleted">
+        <item>Irrational numbers Q’ = {..................................................}</item>
+      </list>
+      <list id="id1169447266538" list-type="bulleted">
+        <item>Real numbers R = {..................................................}</item>
+      </list>
+      <para id="id1169442175405">2. Natural numbers</para>
+      <table id="id1169452684928" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Prime numbers ={..................................................}</entry>
+              <entry>Compound numbers ={..................................................}</entry>
+            </row>
+            <row>
+              <entry>Definition: ........................................................................................…………..................................................…………..................................................…………..........</entry>
+              <entry>Definition: ................................................................…………..........................................................................…………..................................................…………..........</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169449748670">Prime numbers + Compound numbers = Natural numbers</para>
+      <para id="id1169440318797">3. Divisibility rules</para>
+      <para id="id1169441290784">Do you recall that</para>
+      <figure id="id4714048">
+        <media id="id4714048_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1.png" id="id4714048__onlineimage" height="95" width="216"/>
+        </media>
+      </figure>
+      <para id="id1169448037825">In each instance, select a number that is divisible by the given divisor and try to deduce a rule for each instance.</para>
+      <table id="id1169444993282" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Number</entry>
+              <entry>Divisor</entry>
+              <entry>Divisibility rule</entry>
+            </row>
+            <row>
+              <entry>3.1</entry>
+              <entry/>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.2</entry>
+              <entry/>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.3</entry>
+              <entry/>
+              <entry>4</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.4</entry>
+              <entry/>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.5</entry>
+              <entry/>
+              <entry>6</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.6</entry>
+              <entry/>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.7</entry>
+              <entry/>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.8</entry>
+              <entry/>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.9</entry>
+              <entry/>
+              <entry>11</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169453834687">4. Determine by which numbers (1.3.1 - 1.3.9) 61 226 is divisible and provide a reason for each.</para>
+      <para id="id1169440498161">5. Explain what you understand the following terms to mean:</para>
+      <para id="id1169444846356">5.1 Multiple:</para>
+      <para id="id4539659">5.2 Factor:</para>
+      <para id="id1169444262533">5.3 Prime number:</para>
+      <para id="id1169442743042">5.4 Prime factor:</para>
+      <para id="id4186394">5.5 Even numbers and odd numbers:</para>
+      <list id="id4165566" list-type="bulleted">
+        <item>How do you determine the factors of a number? Look at the following.....e.g. F<sub>24</sub> = {1; 2; 3; 4; 6; 8; 12; 24} 1 x 24; 2 x 12; 3 x 8; 4 x 6</item>
+      </list>
+      <para id="id1169448708193">6. Determine the factors of 48.</para>
+      <para id="id1169448152445">7.<emphasis effect="bold"/>Write out all the multiples of 6 between 23 and 56.</para>
+      <para id="id1169452343950">8. Determine the prime numbers between 17 and 78.</para>
+      <para id="id1169444827488">9 Determine all odd compound numbers between 16 and 50.</para>
+      <para id="id4072990">10 Write down all the factors of 50 that are prime numbers.</para>
+      <para id="id1169453784477">11. Write down all the factors of 50 that are compound numbers.</para>
+      <para id="id1169445007979">12. Explain: Cube numbers. Write down the first 6 cube numbers.</para>
+      <para id="id1169453692615">13. Explain : Square numbers. Write down the first 10 square numbers.</para>
+      <para id="id7237647">HOMEWORK ASSIGNMENT 1</para>
+      <para id="id1169448694388">1. Write the definition for each of the following:</para>
+      <para id="id1169456128976">1.1 Rational number:</para>
+      <para id="id1169454807569"/>
+      <para id="id1169442469242">1.2 Prime number:</para>
+      <para id="id1169449942216"/>
+      <para id="id9021130">1.3 Compound numbers:</para>
+      <para id="id2874394"/>
+      <para id="id4076258">1.4 Prime factors:</para>
+      <para id="id1169448240972"/>
+      <para id="id1169453619060">2. Select from {0; 1; 2; 3; 4; ... ; 36} and write down:</para>
+      <para id="id1169448884392">2.1 The first two compound numbers</para>
+      <para id="id1169442855269"/>
+      <para id="id3850674">2.2 Odd numbers that are not prime numbers</para>
+      <para id="id1169444904828"/>
+      <para id="id3974689">2.3 Multiples of 6</para>
+      <para id="id1169449881770"/>
+      <para id="id1169445977466">2.4 Factors of 12 </para>
+      <para id="id1169449475580"/>
+      <para id="id1169442142032">2.5 Prime factors of 12</para>
+      <para id="id1169451640941"/>
+      <para id="id1169446612816">2.6 Factors of 36</para>
+      <para id="id1169455045063"/>
+      <para id="id3138736">3. Which of the following numbers -<sup>9</sup>/<sub>3</sub>; <sup>7</sup>/<sub>0</sub>; 0; 3; -9; 16; 2 <sup>1</sup>/<sub>3</sub> are:</para>
+      <para id="id1169442174880">3.1 Integers?</para>
+      <para id="id5038457"/>
+      <para id="id1169448649999">3.2 Rational numbers?</para>
+      <para id="id1169447690598"/>
+      <para id="id1169448871278">3.3 Non-real numbers?</para>
+      <para id="id1169447527653"/>
+      <para id="id1169443783812">4. Tabulate the following:</para>
+      <para id="id4410315">4.1 Natural numbers &lt; 5 ...........................................................................</para>
+      <para id="id1169455868559">4.2 Prime numbers &lt; 10 ...........................................................................</para>
+      <para id="id5573552">4.3 The first four multiples of 12 ...........................................................................</para>
+      <para id="id1169448248985">4.4 The first four square numbers ...........................................................................</para>
+      <para id="id1169441779118"><emphasis effect="bold"> L</emphasis>e<emphasis effect="underline">arning uni</emphasis>t <emphasis effect="bold">1 </emphasis><emphasis effect="bold">Assessment 1.1</emphasis></para>
+      <table id="id1169444960159" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Assessment of myself:</entry>
+              <entry/>
+              <entry namest="c3" nameend="c5">by myself:</entry>
+              <entry/>
+              <entry namest="c7" nameend="c16">Assessment by Teacher:</entry>
+            </row>
+            <row>
+              <entry>I can…</entry>
+              <entry/>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>Critical Outcomes</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>give examples of different types of numbers; (Lo 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Critical and creative thinking</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>define prime numbers; (Lo 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Collaborating</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>define compound numbers; (Lo 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Organising en managing</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>apply divisibility rules; (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Processing of information</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine multiples of a number; (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Communication</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine factors of a number; (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Problem solving</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine prime numbers and prime factors; (Lo 1.2.6)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Independence</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>determine even and odd numbers. (Lo 1.1)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4116117">
+        <emphasis effect="bold"/>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">good</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">average</emphasis>
+        <emphasis effect="bold"></emphasis>
+        <emphasis effect="italics">not so good</emphasis>
+      </para>
+      <table id="id7600078" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Comments by the learner:</entry>
+              <entry/>
+              <entry/>
+              <entry>My plan of action:</entry>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c9">My marks:</entry>
+            </row>
+            <row>
+              <entry>I am very satisfied with the standard of my work.</entry>
+              <entry/>
+              <entry/>
+              <entry>&lt; </entry>
+              <entry/>
+              <entry><emphasis effect="italics">Date</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I am satisfied with the steady progress I have made.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Out of:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I have worked hard, but my achievement is not satisfactory.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><emphasis effect="bold">Learner</emphasis>:</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I did not give my best.</entry>
+              <entry/>
+              <entry/>
+              <entry> &gt;</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1169446084419" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Comments by parents:</entry>
+              <entry/>
+              <entry>Comments by teacher:</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+              <entry/>
+              <entry>Signature:   <emphasis effect="italics">Date</emphasis>:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7537051"/>
+    </section>
+    <section id="id1169449889366">
+      <title>Assessment</title>
+      <table id="id1169442132904" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1 </entry>
+            </row>
+            <row>
+              <entry>Numbers, Operations and RelationshipsThe learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">We know this when the learner</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>1.1 describes and illustrates the historical and cultural development of numbers;</entry>
+            </row>
+            <row>
+              <entry>1.2 recognises, classifies and represents the following numbers in order to describe and compare them:1.2.3 numbers written in exponent form; including squares and cubes of natural numbers and their square roots and cube roots;1.2.6 multiples and factors;1.2.7 irrational numbers in the context of measurement (e.g. square and cube roots on non-perfect squares and cubes);</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1169441340406">
+      <title>MemorandumACTIVITY 1</title>
+      <para id="id1169442357632">2. {2, 3, 5, 7, . . . }</para>
+      <para id="id5300575"> Two factors: 1 and itself</para>
+      <para id="id7852697">{4, 6, 8, 9, . . . }</para>
+      <para id="id1169452706685">More than 2 factors</para>
+      <list id="id4439162" list-type="bulleted">
+        <item>Own choice: Ends on even numbers</item>
+        <item>Sum of all the numbers ÷ 3</item>
+        <item>Last numbers ÷ 4: e.g. 84 ÷ 4 = 21</item>
+        <item>Ends on 0 / 5</item>
+        <item>Divisible by 2 and 3</item>
+        <item>Last 3 numbers ÷ 8: e.g.  3 720 ÷ 8 = 90 </item>
+        <item>Add all the numbers ÷ 9</item>
+        <item>Ends on 0</item>
+        <item>e.g. 2 6 8  2 + 8 = 10, 10 – 10 = 0</item>
+      </list>
+      <para id="id7464061">0 ÷ 11 = 0,   4 + 6 = 10</para>
+      <para id="id1169445971296">4. 2; 3; 4; 5; 6; 7; 8; 9; 10; 11</para>
+      <para id="id7345676"> √ × × × × × × × × √</para>
+      <list id="id1169448703263" list-type="bulleted">
+        <item>Count on, e.g. in 3’s: Number ÷ 3</item>
+        <item>Number that can divide into another number</item>
+        <item>Number with 2 factors: 1 and itself</item>
+        <item>Prime number that can divide into another number</item>
+        <item>Even: (Ends on even numbers) [divisible by 2]</item>
+      </list>
+      <para id="id7515746">Uneven: (Not divisible by 2)</para>
+      <para id="id7030153">6. <emphasis effect="italics">F</emphasis>48 = {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}</para>
+      <para id="id4649044">7. {24, 30, 36, 42, 48, 54}</para>
+      <para id="id8886531">8. {19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73}</para>
+      <para id="id4441416">9. {21, 25, 27, 33, 35, 39, 45, 49}</para>
+      <para id="id1169442527802">10. {2, 5}</para>
+      <para id="id1169449519810">11. {10, 25, 50}</para>
+      <para id="id1169451464218">12. <emphasis effect="italics">x</emphasis>³ (number)³: 1, 8, 27, 64, 125, 216</para>
+      <para id="id1169452619344">13. <emphasis effect="italics">x</emphasis>² (number)²: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100</para>
+      <section id="id1169453854521">
+        <title>HOMEWORK ASSIGNMENT 1</title>
+        <para id="id1169449286707">1.1: <!--Sorry, this media type is not supported.-->, <emphasis effect="italics">b</emphasis> ≠ 0 (Decimal: recurring or ends)</para>
+        <list id="id4353091" list-type="bulleted">
+          <item>:Number with factors: 1 and itself</item>
+          <item>:Number with more than two factors</item>
+          <item>:Prime number that can divide onto a number</item>
+        </list>
+        <list id="id1169441149381" list-type="bulleted">
+          <item>:4, 6</item>
+          <item>:1, 9, 15, 21, 25, 27, 33, 35</item>
+          <item>:6, 12, 18, 24, 30, 36</item>
+          <item>:1, 2, 3, 4, 6, 12</item>
+          <item>:2, 3</item>
+          <item>:1, 2, 3, 4, 6, 9, 12, 18, 36</item>
+        </list>
+        <list id="id1169450505539" list-type="bulleted">
+          <item>:-<!--Sorry, this media type is not supported.-->, 0, 3, -9, 16</item>
+          <item>:-<!--Sorry, this media type is not supported.-->, 0, 3 -9, 16, 2<!--Sorry, this media type is not supported.--></item>
+          <item>:<!--Sorry, this media type is not supported.--></item>
+        </list>
+        <list id="id1169448234658" list-type="bulleted">
+          <item>:1, 2, 3, 4</item>
+          <item>:2, 3, 5, 7</item>
+          <item>:12, 24, 36, 48</item>
+          <item>:1, 4, 9, 16</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

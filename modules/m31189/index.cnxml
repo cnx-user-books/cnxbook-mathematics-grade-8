@@ -1,0 +1,304 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The volume and exterior surface of prisms</title>
+  <metadata>
+  <md:content-id>m31189</md:content-id><md:title>The volume and exterior surface of prisms</md:title>
+  <md:abstract/>
+  <md:uuid>59c2514b-648e-406f-9168-b1d6bff607c7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id14214932">
+      <title>MATHEMATICS</title>
+      <para id="para-id14214932">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12747016">
+      <title>Grade 8</title>
+      <para id="para-id12747016">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6436740">
+      <title>RATIO AND PROPORTION</title>
+      <para id="para-id6436740">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6670415">
+      <title>MEASUREMENT</title>
+      <para id="para-id6670415">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10350950">
+      <title>CONSTRUCTIONS</title>
+      <para id="para-id10350950">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13871957">
+      <title>Module 16</title>
+      <para id="para-id13871957">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7381895">
+      <title>THE VOLUME AND EXTERIOR SURFACE AREA OF PRISMS</title>
+      <para id="id6044146">ACTIVITY 1</para>
+      <para id="id7486834">Discovering the volume and exterior surface area of prisms and formulating a formula for calculating this, and applying the discovered formulas in practical situations</para>
+      <para id="id9093524">[LO 3.8, 4.2, 4.3, 4.5]</para>
+      <list id="id10499718" list-type="bulleted">
+        <item>Information that could be useful while executing this investigation should be noted down here. Your educator will assist you to ensure that the information is correct before you commence the investigation.</item>
+      </list>
+      <para id="id15655909">1. Write the formulas for calculating the area and volume of each of the following figures:</para>
+      <para id="id13668026">1.1 Area of a square:  </para>
+      <para id="id8110439">1.2 Area of a rectangle:  </para>
+      <para id="id11514693">1.3 Area of a triangle:  </para>
+      <para id="id10617212">1.4 Area of a circle:  </para>
+      <para id="id13951085">1.5 Volume of a rectangular prism:  </para>
+      <para id="id5008927">1.6 Volume of a cylinder:  </para>
+      <para id="id10787453">2. Explain what you understand the following to be and sketch it.</para>
+      <para id="id6660629">2.1 rectangular prism:  </para>
+      <para id="id14946046">Sketch: </para>
+      <para id="id7195322">2.2 triangular prism:  </para>
+      <para id="id3718582">Sketch: </para>
+      <para id="id6972300">2.3 cube:  </para>
+      <para id="id13896378">Sketch: </para>
+      <para id="id13456408">2.4 cylinder:  </para>
+      <para id="id11639858">Sketch: </para>
+      <para id="id3071142">3. What do you understand by the word “volume”? </para>
+      <para id="id12816721"/>
+      <para id="id8630189">4. Name the standard unit of measurement for each of the following:</para>
+      <list id="id6091676" list-type="bulleted">
+        <item>volume:  </item>
+        <item>water in a dam, cool drink in bottle:  </item>
+      </list>
+      <para id="id6705156">5. Study the following representations of nets.</para>
+      <para id="id13918005">5.1 Rectangular prism:</para>
+      <figure id="id11947316">
+        <media id="id11947316_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3.png" id="id11947316__onlineimage" height="143" width="322"/>
+        </media>
+      </figure>
+      <para id="id14024840">5.2 Triangular prism (this is not a proper pyramid):</para>
+      <para id="id8223561">
+        <figure id="id3765748">
+          <media id="id3765748_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4.png" id="id3765748__onlineimage" height="247" width="286"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id15775155">HOMEWORK ASSIGNMENT </para>
+      <para id="id9779703">Date of submission:  </para>
+      <para id="id13649219">1. Collect the following sweet containers: a rectangular prism, a triangular prism, a cube and a cylinder. Unfold each example so that the complete area is visible and paste each onto a separate sheet of cardboard.</para>
+      <para id="id6760377">2. Draw a net to represent each of the figures. Indicate the lengths of the sides.</para>
+      <para id="id8952458">3. Make use of your existing knowledge and determine the total surface area and volume of each example.</para>
+      <para id="id13297643">4. Work out a formula for calculating the total surface area and the volume of each figure. You may refer to sources for help.</para>
+      <list id="id8216305" list-type="enumerated" number-style="arabic">
+        <item>Collect other prisms found in everyday situations and calculate the total surface area. (One example will do)</item>
+      </list>
+      <para id="id16321330">ASSESSMENT RUBRIC: INVESTIGATION</para>
+      <table id="id12800759" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Criterion</emphasis>
+                <emphasis effect="bold"> 1:</emphasis>
+              </entry>
+              <entry>The net is constructed accurately. (CONSTRUCTION)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Criterion</emphasis>
+                <emphasis effect="bold"> 2:</emphasis>
+              </entry>
+              <entry>The surface areas and volumes are calculated correctly. (CALCULATIONS)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Criterion</emphasis>
+                <emphasis effect="bold"> 3:</emphasis>
+              </entry>
+              <entry>The deduction of formulas for surface areas and volumes is correct. (FORMULAS)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Criterion</emphasis>
+                <emphasis effect="bold"> 4:</emphasis>
+              </entry>
+              <entry>The application in practical situations is correct. (REPORT)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id15940492" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>CRITERION</entry>
+              <entry>NOT ACHIEVED</entry>
+              <entry>AVERAGE ACHIEVEMENT</entry>
+              <entry>ACHIEVED</entry>
+              <entry>EXCEPTIONAL</entry>
+              <entry>MARKS</entry>
+            </row>
+            <row>
+              <entry>Construction</entry>
+              <entry>The nets are not well constructed.</entry>
+              <entry>The nets are constructed relatively well.</entry>
+              <entry>The nets are constructed well.</entry>
+              <entry>The nets are constructed to meet the requirements for a perfect net.</entry>
+              <entry>/20</entry>
+            </row>
+            <row>
+              <entry>Calculations</entry>
+              <entry>The calculations are incorrect.</entry>
+              <entry>The calculations are partially correct.</entry>
+              <entry>The calculations are (70 – 90%) correct.</entry>
+              <entry>The calculations are (100%) correct.</entry>
+              <entry>/10</entry>
+            </row>
+            <row>
+              <entry>Formulas</entry>
+              <entry>The formulas are not correct or mathematical.</entry>
+              <entry>The formulas are partially correct and mathematical.</entry>
+              <entry>The formulas are 99% correct.</entry>
+              <entry>The formulas are 100% correctly presented.</entry>
+              <entry>/10</entry>
+            </row>
+            <row>
+              <entry>Report</entry>
+              <entry>The report is untidy. The applications (use of mathematics) is weak.</entry>
+              <entry>The report is fairly good, but the application is not altogether correct in every instance.</entry>
+              <entry>The report is well-presented and the application is correct.</entry>
+              <entry>The manner of presentation reveals that extra effort has gone into the exercise.</entry>
+              <entry>/10</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>TOTAL</entry>
+              <entry>/50</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id14770221">
+      <title>Assessment</title>
+      <table id="id13656453" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 3 </entry>
+            </row>
+            <row>
+              <entry>Space and Form (geometry)The learner is able to describe and represent features of and relationships between two-dimensional forms and three-dimensional objects in a variety of orientations and positions.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>3.2 describes and classifies geometric figures and three-dimensional objects in terms of properties in contexts inclusive of those that can be used to promote awareness of social, cultural and environmental issues, including:3.2.1 sides, angles and diagonals and their relationships, focusing on triangles and quadrilaterals (e.g. types of triangles and quadrilaterals);</entry>
+            </row>
+            <row>
+              <entry>3.3 uses vocabulary to describe parallel lines that are cut by a transverse, perpendicular or intersection line, as well as triangles, with reference to angular relationships (e.g. vertically opposite, corresponding);3.4 uses a pair of compasses, a ruler and a protractor for accurately constructing geometric figures so that specific properties may be investigated and nets may be designed;3.5 designs and uses nets to make models of geometric three- dimensional objects that have been studied in the preceding grades and up till now;3.7 uses proportion to describe the effect of expansion and reduction on the properties of geometric figures;3.8 draws and interprets sketches of geometric three-dimensional objects from several perspectives, focusing on the retention of properties.</entry>
+            </row>
+            <row>
+              <entry>LO 4 </entry>
+            </row>
+            <row>
+              <entry>MeasuringThe learner is able to use appropriate measuring units, instruments and formulas in a variety of contexts.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>4.1 solves more complicated problems involving time, inclusive of the ratio between time, distance and speed;4.2 solves problems involving the following:4.2.1 length;4.2.2 circumference and area of polygons and circles;4.2.3 volume and exterior area of rectangular prisms and cylinders;</entry>
+            </row>
+            <row>
+              <entry>4.3 solves problems using a variety of strategies, including:4.3.1 estimation;4.3.2 calculation to at least two decimal points;4.3.3 use and converting between appropriate S.I. units;</entry>
+            </row>
+            <row>
+              <entry>4.5 calculates the following with the use of appropriate formulas:4.5.1 circumference of polygons and circles;4.5.2 area of triangles, right angles and polygons by means of splitting up to triangles and right angles;4.5.3 volume of prisms with triangular and rectangular bases and cylinders;</entry>
+            </row>
+            <row>
+              <entry>4.7 estimates, compares, measures and draws triangles accurately to within one degree.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id15644611">
+      <title/>
+      <para id="para-id15644611">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8837816">
+      <title>Memorandum</title>
+      <para id="id10771760">ACTIVITY 1</para>
+      <list id="id6076457" list-type="bulleted">
+        <item>ℓ<sup>2</sup></item>
+        <item>ℓ × <emphasis effect="italics">b</emphasis></item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> × <emphasis effect="italics">b</emphasis> × 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ortho } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">h</emphasis></item>
+        <item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mi>π</m:mi>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <emphasis effect="italics">r</emphasis>
+          <sup>2</sup>
+        </item>
+        <item>ℓ × <emphasis effect="italics">b</emphasis> × <emphasis effect="italics">h</emphasis></item>
+        <item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mi>π</m:mi>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <emphasis effect="italics">r</emphasis>
+          <sup>2</sup>
+          <emphasis effect="italics">h</emphasis>
+        </item>
+      </list>
+      <para id="id15672269">2. Learners supply.</para>
+      <para id="id10446682">3. Contents</para>
+      <list id="id11396423" list-type="bulleted">
+        <item>ℓ / mℓ / kℓ / cm<sup>3</sup> / mm<sup>3</sup> etc.</item>
+        <item>kℓ / ℓ / mℓ</item>
+      </list>
+    </section>
+  </content>
+</document>
